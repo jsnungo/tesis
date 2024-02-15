@@ -1,0 +1,909 @@
+,init,end,length,rana_label,quality_label,label,file_wav,file_wav_source,is_BOAFAB
+2811,5.970892,6.970892,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+2251,469.037695,470.037695,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3436,67.784645,68.784645,1.0,PHYCUV,C,PHYCUV_C,37_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+2483,38.212786,39.212786,1.0,PHYCUV,C,PHYCUV_C,33_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+2301,523.447079,524.447079,1.0,BOAFAB,C,BOAFAB_C,7_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+4377,104.890957,105.890957,1.0,DENCRU,C,DENCRU_C,0_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1180,71.992582,72.992582,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+3481,5.453512,6.453512,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+3691,92.510461,93.510461,1.0,BOAFAB,C,BOAFAB_C,92_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+2029,232.047982,233.047982,1.0,BOAFAB,C,BOAFAB_C,34_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2105,310.191316,311.191316,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1400,47.842375,48.842375,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+2729,32.236402,33.236402,1.0,BOAFAB,C,BOAFAB_C,32_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+1262,114.808161,115.808161,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+3867,15.197842,16.197842,1.0000000000000018,BOAFAB,C,BOAFAB_C,8_FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+2009,212.047982,213.047982,1.0,BOAFAB,C,BOAFAB_C,14_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1295,28.293598,29.293598,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+851,21.693146,22.693146,1.0,ADEMAR,C,ADEMAR_C,3_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+3245,89.241144,90.241144,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+4211,56.381833,57.381833,1.0,ADEMAR,C,ADEMAR_C,16_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+3919,19.838597,20.838597,1.0,BOAFAB,C,BOAFAB_C,18_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3572,106.785679,107.785679,1.0,BOAFAB,C,BOAFAB_C,13_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+1699,27.611264,28.611264,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+988,43.815604,44.815604,1.0,PHYCUV,C,PHYCUV_C,20_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+357,44.245462,45.245462,1.0,ADEMAR,C,ADEMAR_C,43_FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4513,48.975783,49.975783,1.0,DENCRU,C,DENCRU_C,1_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+1635,43.516867,44.516867,1.0,PHYCUV,C,PHYCUV_C,42_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+3591,125.785679,126.785679,1.0,BOAFAB,C,BOAFAB_C,32_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+1906,85.939679,86.939679,1.0,BOAFAB,C,BOAFAB_C,9_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1132,33.651699,34.651699,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+3679,80.510461,81.510461,1.0,BOAFAB,C,BOAFAB_C,80_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1638,46.516867,47.516867,1.0,PHYCUV,C,PHYCUV_C,45_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+899,75.391231,76.391231,1.0,ADEMAR,C,ADEMAR_C,40_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+927,164.565075,165.565075,1.0,BOAALM,C,BOAALM_C,0_FNJV_0043933_Boana_albomarginata_Ilha de Itacuruca_SP_Guilherme Augusto-Alves.wav,FNJV_0043933_Boana_albomarginata_Ilha de Itacuruca_SP_Guilherme Augusto-Alves.wav,False
+614,35.237455,36.237455,1.0,ADEMAR,C,ADEMAR_C,33_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2019,222.047982,223.047982,1.0,BOAFAB,C,BOAFAB_C,24_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2305,527.447079,528.447079,1.0,BOAFAB,C,BOAFAB_C,11_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3230,65.480401,66.480401,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+2759,62.236402,63.236402,1.0,BOAFAB,C,BOAFAB_C,62_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+3041,18.942967,19.942967,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+4123,223.838597,224.838597,1.0,BOAFAB,C,BOAFAB_C,222_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+500,46.040991000000005,47.040991000000005,1.0,ADEMAR,C,ADEMAR_C,17_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+628,49.237455,50.237455,1.0,ADEMAR,C,ADEMAR_C,47_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2161,373.67076,374.67076,1.0,BOAFAB,C,BOAFAB_C,48_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2380,765.523972,766.523972,1.0,BOAFAB,C,BOAFAB_C,40_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+616,37.237455,38.237455,1.0,ADEMAR,C,ADEMAR_C,35_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2360,745.523972,746.523972,1.0,BOAFAB,C,BOAFAB_C,20_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2688,194.425956,195.425956,1.0,BOALEP,C,BOALEP_C,1_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+3431,62.784645,63.784645,1.0,PHYCUV,C,PHYCUV_C,32_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+1802,89.995472,90.995472,1.0,PHYCUV,C,PHYCUV_C,70_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+345,32.245462,33.245462,1.0,ADEMAR,C,ADEMAR_C,31_FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1797,84.995472,85.995472,1.0,PHYCUV,C,PHYCUV_C,65_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3485,11.83893,12.83893,1.0,BOAFAB,C,BOAFAB_C,1_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+1244,85.727068,86.727068,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+704,15.385674,16.385674,1.0000000000000018,ADEMAR,C,ADEMAR_C,13_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+504,55.05714,56.05714,1.0,ADEMAR,C,ADEMAR_C,3_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+1543,34.091524,35.091524,1.0,BOARAN,C,BOARAN_C,4_FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+140,4.211422,5.211422,1.0,ADEMAR,C,ADEMAR_C,3_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+4532,128.12489399999998,129.12489399999998,1.0,DENCRU,C,DENCRU_C,6_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+4005,105.838597,106.838597,1.0,BOAFAB,C,BOAFAB_C,104_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1608,16.516867,17.516867,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2218,430.67076,431.67076,1.0,BOAFAB,C,BOAFAB_C,105_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3129,45.622717,46.622717,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+1747,34.995472,35.995472,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+2958,4.6635290000000005,5.6635290000000005,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,False
+788,45.021009,46.021009,1.0,ADEMAR,C,ADEMAR_C,38_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+1061,41.837183,42.837183,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,False
+934,17.135345,18.135345,1.0,SCIFUS,C,SCIFUS_C,1_FNJV_0040788_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0040788_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+3252,96.241144,97.241144,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+105,2.392717,3.392717,1.0,ADEMAR,C,ADEMAR_C,1_FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,False
+1060,40.837183,41.837183,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,False
+2062,265.047982,266.047982,1.0,BOAFAB,C,BOAFAB_C,67_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1258,107.275641,108.275641,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+1233,67.582675,68.582675,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+2627,56.855533,57.855533,1.0,BOALEP,C,BOALEP_C,0_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+3494,20.838929999999998,21.838929999999998,1.0,BOAFAB,C,BOAFAB_C,10_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+2535,20.251619,21.251619,1.0,BOAALM,C,BOAALM_C,2_FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+3383,12.761871,13.761871,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+1867,33.308547000000004,34.308547000000004,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+290,90.723382,91.723382,1.0,ADEMAR,C,ADEMAR_C,50_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4328,67.300471,68.300471,1.0,DENCRU,C,DENCRU_C,16_1584-D.cruzi.wav,1584-D.cruzi.wav,False
+4222,67.381833,68.381833,1.0,ADEMAR,C,ADEMAR_C,27_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+1347,96.025187,97.025187,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+3675,76.510461,77.510461,1.0,BOAFAB,C,BOAFAB_C,76_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1259,111.808161,112.808161,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+1905,84.939679,85.939679,1.0,BOAFAB,C,BOAFAB_C,8_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3639,40.510461,41.510461,1.0,BOAFAB,C,BOAFAB_C,40_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+2422,52.020128,53.020128,1.0,PHYCUV,C,PHYCUV_C,18_FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,False
+720,31.385674,32.385674,1.0,ADEMAR,C,ADEMAR_C,29_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+4305,26.531228,27.531228,1.0,BOAFAB,C,BOAFAB_C,26_FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+2539,24.251619,25.251619,1.0,BOAALM,C,BOAALM_C,6_FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+1644,52.516867,53.516867,1.0,PHYCUV,C,PHYCUV_C,51_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2183,395.67076,396.67076,1.0,BOAFAB,C,BOAFAB_C,70_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+4308,2.9843599999999997,3.9843599999999997,1.0,DENCRU,C,DENCRU_C,1_1584-D.cruzi.wav,1584-D.cruzi.wav,False
+883,59.391231,60.391231,1.0,ADEMAR,C,ADEMAR_C,24_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+1582,44.407758,45.407758,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3673,74.510461,75.510461,1.0,BOAFAB,C,BOAFAB_C,74_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+3412,43.784645,44.784645,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+3988,88.838597,89.838597,1.0,BOAFAB,C,BOAFAB_C,87_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1223,57.582675,58.582675,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+3913,13.838597,14.838597,1.0,BOAFAB,C,BOAFAB_C,12_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3018,77.102532,78.102532,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,False
+1032,36.022965,37.022965,1.0,BOAALM,C,BOAALM_C,1_FNJV_0040068_Boana_albomarginata_Dores do Rio Preto_ES_Victor Favaro Augusto.wav,FNJV_0040068_Boana_albomarginata_Dores do Rio Preto_ES_Victor Favaro Augusto.wav,False
+1313,49.66017,50.66017,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+18,18.985377,19.985377,1.0,BOAFAB,C,BOAFAB_C,18_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+3658,59.510461,60.510461,1.0,BOAFAB,C,BOAFAB_C,59_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+294,3.785565,4.785565,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+349,36.245462,37.245462,1.0,ADEMAR,C,ADEMAR_C,35_FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+813,86.191844,87.191844,1.0,ADEMAR,C,ADEMAR_C,1_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+4433,88.772537,89.772537,1.0,DENCRU,C,DENCRU_C,5_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+223,87.211422,88.211422,1.0,ADEMAR,C,ADEMAR_C,86_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+3753,67.413737,68.413737,1.0,BOALEP,C,BOALEP_C,0_FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+3401,32.784645,33.784645,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+3880,28.197842,29.197842,1.0,BOAFAB,C,BOAFAB_C,21_FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+1243,84.727068,85.727068,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+3411,42.784645,43.784645,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+2797,12.688932,13.688932,1.0,SCIFUS,C,SCIFUS_C,0_FNJV_0031371_Scinax_fuscomarginatus_Formoso do Araguaia_TO_Adao J. Cardoso.wav,FNJV_0031371_Scinax_fuscomarginatus_Formoso do Araguaia_TO_Adao J. Cardoso.wav,False
+3065,42.942967,43.942967,1.0,PHYCUV,C,PHYCUV_C,36_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+3434,65.784645,66.784645,1.0,PHYCUV,C,PHYCUV_C,35_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+2297,519.447079,520.447079,1.0,BOAFAB,C,BOAFAB_C,3_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2253,471.037695,472.037695,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2941,32.914727,33.914727,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,False
+3863,11.197842,12.197842,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+102,102.985377,103.985377,1.0,BOAFAB,C,BOAFAB_C,102_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+3740,3.682348,4.682348,1.0,BOALEP,C,BOALEP_C,1_FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+1965,158.230338,159.230338,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1288,17.987338,18.987338,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+4515,50.975783,51.975783,1.0,DENCRU,C,DENCRU_C,3_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+40,40.985377,41.985377,1.0,BOAFAB,C,BOAFAB_C,40_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+1321,62.420518,63.420518,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+4022,122.838597,123.838597,1.0,BOAFAB,C,BOAFAB_C,121_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+92,92.985377,93.985377,1.0,BOAFAB,C,BOAFAB_C,92_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+4234,5.980509,6.980509,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+2104,309.191316,310.191316,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+4456,111.772537,112.772537,1.0,DENCRU,C,DENCRU_C,28_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+2107,317.167265,318.167265,1.0,BOAFAB,C,BOAFAB_C,1_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3072,28.947527,29.947527,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031214_Physalaemus_cuvieri_Itapema_SC_Ivan Sazima.wav,FNJV_0031214_Physalaemus_cuvieri_Itapema_SC_Ivan Sazima.wav,False
+3006,58.386097,59.386097,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,False
+4400,8.706842,9.706842,1.0,DENCRU,C,DENCRU_C,0_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+3549,128.057363,129.057363,1.0,BOAFAB,C,BOAFAB_C,29_FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+559,25.125458000000002,26.125458000000002,1.0,ADEMAR,C,ADEMAR_C,23_FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1588,50.407758,51.407758,1.0,PHYCUV,C,PHYCUV_C,16_FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+21,21.985377,22.985377,1.0,BOAFAB,C,BOAFAB_C,21_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+3568,102.785679,103.785679,1.0,BOAFAB,C,BOAFAB_C,9_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+3810,60.835317,61.835317,1.0,SCIFUS,C,SCIFUS_C,1_FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+3042,19.942967,20.942967,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+2300,522.447079,523.447079,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3104,19.367742,20.367742,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+3674,75.510461,76.510461,1.0,BOAFAB,C,BOAFAB_C,75_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+2884,79.111722,80.111722,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+4385,112.890957,113.890957,1.0,DENCRU,C,DENCRU_C,8_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1858,18.575246,19.575246,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+3945,45.838597,46.838597,1.0,BOAFAB,C,BOAFAB_C,44_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3770,21.759708,22.759708,1.0,BOALEP,C,BOALEP_C,0_FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+1868,34.308547000000004,35.308547000000004,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+4172,5.911248,6.911248,1.0,ADEMAR,C,ADEMAR_C,5_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+2530,5.549311,6.549311,1.0,BOAALM,C,BOAALM_C,1_FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+1889,461.428924,462.428924,1.0,BOAFAB,C,BOAFAB_C,2_FNJV_0032290_Boana_faber_Boraceia_SP_Lucas Rodriguez Forti.wav,FNJV_0032290_Boana_faber_Boraceia_SP_Lucas Rodriguez Forti.wav,True
+3613,14.510461,15.510461,1.0,BOAFAB,C,BOAFAB_C,14_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1234,68.582675,69.582675,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+4270,41.980509,42.980509,1.0,BOAFAB,C,BOAFAB_C,41_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+4499,20.011194,21.011194,1.0,DENCRU,C,DENCRU_C,2_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+115,12.392717,13.392717,1.0,ADEMAR,C,ADEMAR_C,11_FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,False
+3385,14.761871,15.761871,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+1467,10.293179,11.293179,1.0,ADEMAR,C,ADEMAR_C,9_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+4276,47.980509,48.980509,1.0,BOAFAB,C,BOAFAB_C,47_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+644,5.575646,6.575646,1.0,ADEMAR,C,ADEMAR_C,3_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+4502,25.396386,26.396386,1.0,DENCRU,C,DENCRU_C,2_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+4080,180.838597,181.838597,1.0,BOAFAB,C,BOAFAB_C,179_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3653,54.510461,55.510461,1.0,BOAFAB,C,BOAFAB_C,54_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1058,16.754638,17.754638,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,False
+1544,35.091524,36.091524,1.0,BOARAN,C,BOARAN_C,5_FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+745,56.385674,57.385674,1.0,ADEMAR,C,ADEMAR_C,54_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+3987,87.838597,88.838597,1.0,BOAFAB,C,BOAFAB_C,86_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2571,32.76074,33.76074,1.0,ADEMAR,C,ADEMAR_C,27_FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+957,105.743018,106.743018,1.0,DENELE,C,DENELE_C,0_FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,False
+1254,99.796239,100.796239,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+4169,2.911248,3.911248,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+4053,153.838597,154.838597,1.0,BOAFAB,C,BOAFAB_C,152_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4332,3.673175,4.673175,0.9999999999999996,DENCRU,C,DENCRU_C,3_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+2316,542.992788,543.992788,1.0,BOAFAB,C,BOAFAB_C,3_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3551,130.057363,131.057363,1.0,BOAFAB,C,BOAFAB_C,31_FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+4072,172.838597,173.838597,1.0,BOAFAB,C,BOAFAB_C,171_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3741,4.682348,5.682348,1.0,BOALEP,C,BOALEP_C,2_FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+4334,5.673175,6.673175,1.0,DENCRU,C,DENCRU_C,5_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+67,67.985377,68.985377,1.0,BOAFAB,C,BOAFAB_C,67_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+2690,196.425956,197.425956,1.0,BOALEP,C,BOALEP_C,3_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+293,2.785565,3.785565,1.0,ADEMAR,C,ADEMAR_C,1_FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1783,70.995472,71.995472,1.0,PHYCUV,C,PHYCUV_C,51_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+2609,20.151262,21.151262,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+1809,96.995472,97.995472,1.0,PHYCUV,C,PHYCUV_C,77_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3309,31.045388,32.045388,1.0000000000000036,PHYCUV,C,PHYCUV_C,2_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+3968,68.838597,69.838597,1.0,BOAFAB,C,BOAFAB_C,67_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+954,76.511966,77.511966,1.0,DENELE,C,DENELE_C,0_FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,False
+3779,30.759708,31.759708,1.0,BOALEP,C,BOALEP_C,9_FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+2371,756.523972,757.523972,1.0,BOAFAB,C,BOAFAB_C,31_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3950,50.838597,51.838597,1.0,BOAFAB,C,BOAFAB_C,49_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4516,51.975783,52.975783,1.0,DENCRU,C,DENCRU_C,4_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+4170,3.911248,4.911248,0.9999999999999996,ADEMAR,C,ADEMAR_C,3_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+2083,286.047982,287.047982,1.0,BOAFAB,C,BOAFAB_C,88_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1361,114.338358,115.338358,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+3916,16.838597,17.838597,1.0,BOAFAB,C,BOAFAB_C,15_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+854,24.693146,25.693146,1.0,ADEMAR,C,ADEMAR_C,6_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+4134,234.838597,235.838597,1.0,BOAFAB,C,BOAFAB_C,233_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+388,26.117328999999998,27.117328999999998,1.0,ADEMAR,C,ADEMAR_C,24_FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+2284,503.559102,504.559102,1.0,BOAFAB,C,BOAFAB_C,16_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1186,112.055192,113.055192,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+3569,103.785679,104.785679,1.0,BOAFAB,C,BOAFAB_C,10_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+4423,35.463599,36.463599,1.0,DENCRU,C,DENCRU_C,2_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+2149,361.67076,362.67076,1.0,BOAFAB,C,BOAFAB_C,36_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1847,3.570745,4.5707450000000005,1.0000000000000004,BOAFAB,C,BOAFAB_C,0_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+998,63.851957,64.851957,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+3565,99.785679,100.785679,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+3718,119.510461,120.510461,1.0,BOAFAB,C,BOAFAB_C,119_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+142,6.211422,7.211422,1.0,ADEMAR,C,ADEMAR_C,5_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+2976,38.689659,39.689659,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,False
+867,43.391231,44.391231,1.0,ADEMAR,C,ADEMAR_C,8_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+1790,77.995472,78.995472,1.0,PHYCUV,C,PHYCUV_C,58_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+684,45.575646,46.575646,1.0,ADEMAR,C,ADEMAR_C,43_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+58,58.985377,59.985377,1.0,BOAFAB,C,BOAFAB_C,58_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+1428,125.431403,126.431403,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+1230,64.582675,65.582675,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+4341,14.231005,15.231005,1.0,DENCRU,C,DENCRU_C,0_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1864,30.308547,31.308547,1.0,BOAFAB,C,BOAFAB_C,1_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+844,12.702626,13.702626,1.0,ADEMAR,C,ADEMAR_C,11_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+1309,44.115089,45.115089,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+4474,141.338907,142.338907,1.0,DENCRU,C,DENCRU_C,0_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+2887,82.111722,83.111722,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+3776,27.759708,28.759708,1.0,BOALEP,C,BOALEP_C,6_FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+4519,59.635867,60.635867,1.0,DENCRU,C,DENCRU_C,1_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+4182,15.911248,16.911248,1.0,ADEMAR,C,ADEMAR_C,15_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+2421,51.020128,52.020128,1.0,PHYCUV,C,PHYCUV_C,17_FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,False
+4245,16.980509,17.980509,1.0,BOAFAB,C,BOAFAB_C,16_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+666,27.575646,28.575646,1.0,ADEMAR,C,ADEMAR_C,25_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2461,16.212786,17.212786,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+1784,71.995472,72.995472,1.0,PHYCUV,C,PHYCUV_C,52_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+4111,211.838597,212.838597,1.0,BOAFAB,C,BOAFAB_C,210_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4453,108.772537,109.772537,1.0,DENCRU,C,DENCRU_C,25_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+3233,73.288595,74.288595,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+2060,263.047982,264.047982,1.0,BOAFAB,C,BOAFAB_C,65_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+501,52.05714,53.05714,1.0,ADEMAR,C,ADEMAR_C,0_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+1767,54.995472,55.995472,1.0,PHYCUV,C,PHYCUV_C,35_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1076,5.659753,6.659753,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+125,22.392717,23.392717,1.0,ADEMAR,C,ADEMAR_C,21_FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,False
+2756,59.236402,60.236402,1.0,BOAFAB,C,BOAFAB_C,59_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+1473,16.293179,17.293179,1.0,ADEMAR,C,ADEMAR_C,15_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+1169,60.992582,61.992582,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+1287,16.987338,17.987338,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+2173,385.67076,386.67076,1.0,BOAFAB,C,BOAFAB_C,60_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+338,25.245462,26.245462,1.0,ADEMAR,C,ADEMAR_C,24_FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+3731,132.510461,133.510461,1.0,BOAFAB,C,BOAFAB_C,132_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+3807,7.224172,8.224172,0.9999999999999991,SCIFUS,C,SCIFUS_C,7_FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+421,2.70712,3.70712,1.0,ADEMAR,C,ADEMAR_C,0_FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+619,40.237455,41.237455,1.0,ADEMAR,C,ADEMAR_C,38_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+4480,147.338907,148.338907,1.0,DENCRU,C,DENCRU_C,6_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+4200,45.381833,46.381833,1.0,ADEMAR,C,ADEMAR_C,5_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+3599,0.510461,1.510461,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+4319,58.300471,59.300471,1.0,DENCRU,C,DENCRU_C,7_1584-D.cruzi.wav,1584-D.cruzi.wav,False
+1624,32.516867,33.516867,1.0,PHYCUV,C,PHYCUV_C,31_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+4028,128.838597,129.838597,1.0,BOAFAB,C,BOAFAB_C,127_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2326,618.36075,619.36075,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+964,5.198041,6.198041,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+2965,11.663529,12.663529,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,False
+4181,14.911248,15.911248,1.0,ADEMAR,C,ADEMAR_C,14_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+2085,288.047982,289.047982,1.0,BOAFAB,C,BOAFAB_C,90_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+737,48.385674,49.385674,1.0,ADEMAR,C,ADEMAR_C,46_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+258,58.723382,59.723382,1.0,ADEMAR,C,ADEMAR_C,18_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+405,43.117329,44.117329,1.0,ADEMAR,C,ADEMAR_C,41_FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+836,4.702626,5.702626,1.0,ADEMAR,C,ADEMAR_C,3_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+2391,8.0,9.0,1.0,SCIFUS,C,SCIFUS_C,8_FNJV_0032122_Scinax_fuscomarginatus_Lencois Paulista_SP_Jacques Vielliard.wav,FNJV_0032122_Scinax_fuscomarginatus_Lencois Paulista_SP_Jacques Vielliard.wav,False
+2775,78.236402,79.236402,1.0,BOAFAB,C,BOAFAB_C,78_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+2809,3.970892,4.970892,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+397,35.117329,36.117329,1.0,ADEMAR,C,ADEMAR_C,33_FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1196,122.055192,123.055192,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+1826,15.479227999999999,16.479228,1.0,PHYCUV,C,PHYCUV_C,14_FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,False
+3175,24.846550999999998,25.846550999999998,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+3093,5.13663,6.13663,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+2770,73.236402,74.236402,1.0,BOAFAB,C,BOAFAB_C,73_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+1245,86.727068,87.727068,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+1256,105.275641,106.275641,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+3862,10.197842,11.197842,1.0,BOAFAB,C,BOAFAB_C,3_FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+4164,264.838597,265.838597,1.0,BOAFAB,C,BOAFAB_C,263_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2637,74.447082,75.447082,1.0,BOALEP,C,BOALEP_C,2_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+139,3.2114219999999998,4.211422,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+3285,2.808199,3.808199,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+1271,123.808161,124.808161,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+3773,24.759708,25.759708,1.0,BOALEP,C,BOALEP_C,3_FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+1907,86.939679,87.939679,1.0,BOAFAB,C,BOAFAB_C,10_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2262,480.037695,481.037695,1.0,BOAFAB,C,BOAFAB_C,15_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+4288,9.531228,10.531228,1.0,BOAFAB,C,BOAFAB_C,9_FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+3126,42.622717,43.622717,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+2647,88.582596,89.582596,1.0,BOALEP,C,BOALEP_C,2_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+731,42.385674,43.385674,1.0,ADEMAR,C,ADEMAR_C,40_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1925,106.993143,107.993143,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3736,137.510461,138.510461,1.0,BOAFAB,C,BOAFAB_C,137_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1729,110.539853,111.539853,1.0,SCIFUS,C,SCIFUS_C,1_FNJV_0032860_Scinax_fuscomarginatus_Guapo_GO_Rogerio Pereira Bastos.wav,FNJV_0032860_Scinax_fuscomarginatus_Guapo_GO_Rogerio Pereira Bastos.wav,False
+2940,30.381116,31.381116,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,False
+2727,30.236402,31.236402,1.0,BOAFAB,C,BOAFAB_C,30_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+2129,341.67076,342.67076,1.0,BOAFAB,C,BOAFAB_C,16_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3946,46.838597,47.838597,1.0,BOAFAB,C,BOAFAB_C,45_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4041,141.838597,142.838597,1.0,BOAFAB,C,BOAFAB_C,140_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2101,306.191316,307.191316,1.0,BOAFAB,C,BOAFAB_C,2_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2299,521.447079,522.447079,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2344,729.523972,730.523972,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+4082,182.838597,183.838597,1.0,BOAFAB,C,BOAFAB_C,181_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+329,16.245462,17.245462,1.0,ADEMAR,C,ADEMAR_C,15_FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+3102,17.367742,18.367742,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+3313,35.045388,36.045388,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+4290,11.531228,12.531228,1.0,BOAFAB,C,BOAFAB_C,11_FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+1707,38.681943,39.681943,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3344,78.38945799999999,79.38945799999999,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+3816,76.661969,77.661969,1.0,BOAFAB,C,BOAFAB_C,1_FNJV_0011777_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0011777_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+76,76.985377,77.985377,1.0,BOAFAB,C,BOAFAB_C,76_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+265,65.723382,66.723382,1.0,ADEMAR,C,ADEMAR_C,25_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4503,26.396386,27.396386,1.0,DENCRU,C,DENCRU_C,3_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+663,24.575646,25.575646,1.0,ADEMAR,C,ADEMAR_C,22_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2994,21.851013000000002,22.851013000000002,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,False
+2139,351.67076,352.67076,1.0,BOAFAB,C,BOAFAB_C,26_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2302,524.447079,525.447079,1.0,BOAFAB,C,BOAFAB_C,8_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1739,26.995472,27.995472,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3416,47.784645,48.784645,1.0,PHYCUV,C,PHYCUV_C,17_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+3278,29.203723,30.203723,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,False
+3783,34.759708,35.759708,1.0,BOALEP,C,BOALEP_C,13_FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+870,46.391231,47.391231,1.0,ADEMAR,C,ADEMAR_C,11_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+2227,439.67076,440.67076,1.0,BOAFAB,C,BOAFAB_C,114_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3511,37.83893,38.83893,1.0,BOAFAB,C,BOAFAB_C,27_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+1693,21.611264,22.611264,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1142,43.651699,44.651699,1.0,PHYCUV,C,PHYCUV_C,14_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+2782,86.93644,87.93644,1.0,BOAFAB,C,BOAFAB_C,1_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+2850,68.423474,69.423474,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+4445,100.772537,101.772537,1.0,DENCRU,C,DENCRU_C,17_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+1081,12.056506,13.056506,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+2439,30.37498,31.37498,1.0,BOARAN,C,BOARAN_C,2_FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,False
+4000,100.838597,101.838597,1.0,BOAFAB,C,BOAFAB_C,99_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+231,7.3689219999999995,8.368922,1.0,ADEMAR,C,ADEMAR_C,5_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4088,188.838597,189.838597,1.0,BOAFAB,C,BOAFAB_C,187_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1504,12.976138,13.976138,1.0,BOARAN,C,BOARAN_C,1_FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+1079,8.659753,9.659753,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+1492,37.825567,38.825567,1.0,ADEMAR,C,ADEMAR_C,7_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+762,19.021009,20.021009,1.0,ADEMAR,C,ADEMAR_C,12_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+2192,404.67076,405.67076,1.0,BOAFAB,C,BOAFAB_C,79_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+4410,18.706842,19.706842,1.0,DENCRU,C,DENCRU_C,10_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+3220,52.152723,53.152723,1.0,PHYCUV,C,PHYCUV_C,14_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+2459,14.212786000000001,15.212786000000001,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+2932,4.311980999999999,5.311980999999999,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,False
+1125,23.165587000000002,24.165587000000002,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+727,38.385674,39.385674,1.0,ADEMAR,C,ADEMAR_C,36_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1318,57.845916,58.845916,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+218,82.211422,83.211422,1.0,ADEMAR,C,ADEMAR_C,81_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+1589,51.407758,52.407758,1.0,PHYCUV,C,PHYCUV_C,17_FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3728,129.510461,130.510461,1.0,BOAFAB,C,BOAFAB_C,129_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1116,14.165587,15.165587,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+3109,24.367742,25.367742,1.0,PHYCUV,C,PHYCUV_C,14_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+4233,4.980509,5.980509,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+4272,43.980509,44.980509,1.0,BOAFAB,C,BOAFAB_C,43_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+2623,33.901610000000005,34.901610000000005,1.0,BOALEP,C,BOALEP_C,7_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+1431,128.431403,129.431403,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+4045,145.838597,146.838597,1.0,BOAFAB,C,BOAFAB_C,144_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+372,10.117329,11.117329,1.0,ADEMAR,C,ADEMAR_C,8_FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+2599,10.151262,11.151262,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+3381,10.761871,11.761871,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+1252,97.796239,98.796239,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+3941,41.838597,42.838597,1.0,BOAFAB,C,BOAFAB_C,40_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1620,28.516867,29.516867,1.0,PHYCUV,C,PHYCUV_C,27_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2503,62.51616,63.51616,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+4311,5.98436,6.98436,1.0,DENCRU,C,DENCRU_C,4_1584-D.cruzi.wav,1584-D.cruzi.wav,False
+980,35.815604,36.815604,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+1450,150.318589,151.318589,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+832,105.191844,106.191844,1.0,ADEMAR,C,ADEMAR_C,20_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+366,4.117329,5.117329,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1586,48.407758,49.407758,1.0,PHYCUV,C,PHYCUV_C,14_FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+276,76.723382,77.723382,1.0,ADEMAR,C,ADEMAR_C,36_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1155,21.640626,22.640626,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+2842,49.558685,50.558685,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+2436,24.834512,25.834512,1.0,BOARAN,C,BOARAN_C,1_FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,False
+1782,69.995472,70.995472,1.0,PHYCUV,C,PHYCUV_C,50_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+879,55.391231,56.391231,1.0,ADEMAR,C,ADEMAR_C,20_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+1181,72.992582,73.992582,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+1319,58.845916,59.845916,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+3642,43.510461,44.510461,1.0,BOAFAB,C,BOAFAB_C,43_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+2425,2.507117,3.507117,1.0,BOARAN,C,BOARAN_C,2_FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,False
+981,36.815604,37.815604,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+1185,76.992582,77.992582,1.0,PHYCUV,C,PHYCUV_C,17_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+3243,83.288595,84.288595,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+3689,90.510461,91.510461,1.0,BOAFAB,C,BOAFAB_C,90_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+4491,10.179958,11.179958,1.0,DENCRU,C,DENCRU_C,0_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+690,51.575646,52.575646,1.0,ADEMAR,C,ADEMAR_C,49_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1752,39.995472,40.995472,1.0,PHYCUV,C,PHYCUV_C,20_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1734,21.995472,22.995472,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+2496,52.849802,53.849802,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+1740,27.995472,28.995472,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1753,40.995472,41.995472,1.0,PHYCUV,C,PHYCUV_C,21_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3190,14.207574000000001,15.207574000000001,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+1379,1.060639,2.060639,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+3306,23.808199000000002,24.808199000000002,1.0,PHYCUV,C,PHYCUV_C,21_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+4034,134.838597,135.838597,1.0,BOAFAB,C,BOAFAB_C,133_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4228,20.523437,21.523437,1.0,BOAFAB,C,BOAFAB_C,2_FNJV_0011068_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011068_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+4448,103.772537,104.772537,1.0,DENCRU,C,DENCRU_C,20_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+1623,31.516867,32.516867,0.9999999999999964,PHYCUV,C,PHYCUV_C,30_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+1674,82.516867,83.516867,1.0,PHYCUV,C,PHYCUV_C,81_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+3643,44.510461,45.510461,1.0,BOAFAB,C,BOAFAB_C,44_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+4004,104.838597,105.838597,1.0,BOAFAB,C,BOAFAB_C,103_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3136,52.622717,53.622717,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+1943,124.993143,125.993143,1.0,BOAFAB,C,BOAFAB_C,23_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1401,51.003201,52.003201,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+2734,37.236402,38.236402,1.0,BOAFAB,C,BOAFAB_C,37_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+3472,119.659813,120.659813,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+3339,73.38945799999999,74.38945799999999,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+4212,57.381833,58.381833,1.0,ADEMAR,C,ADEMAR_C,17_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+2521,85.807068,86.807068,1.0,DENELE,C,DENELE_C,1_FNJV_0031844_Dendropsophus_elegans_Itaguai_RJ_Werner C. A. Bokermann.wav,FNJV_0031844_Dendropsophus_elegans_Itaguai_RJ_Werner C. A. Bokermann.wav,False
+2806,96.222181,97.222181,1.0,SCIFUS,C,SCIFUS_C,0_FNJV_0031363_Scinax_fuscomarginatus_Paulinia_SP_Ivan Sazima.wav,FNJV_0031363_Scinax_fuscomarginatus_Paulinia_SP_Ivan Sazima.wav,False
+3421,52.784645,53.784645,1.0,PHYCUV,C,PHYCUV_C,22_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+2939,29.381116,30.381116,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,False
+3943,43.838597,44.838597,1.0,BOAFAB,C,BOAFAB_C,42_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+310,19.785565,20.785565,1.0,ADEMAR,C,ADEMAR_C,18_FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4362,57.291846,58.291846,1.0,DENCRU,C,DENCRU_C,8_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1469,12.293179,13.293179,1.0,ADEMAR,C,ADEMAR_C,11_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+2910,7.067233,8.067233,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0031228_Physalaemus_cuvieri_Sao Raimundo Nonato_PI_Adao J. Cardoso.wav,FNJV_0031228_Physalaemus_cuvieri_Sao Raimundo Nonato_PI_Adao J. Cardoso.wav,False
+888,64.391231,65.391231,1.0,ADEMAR,C,ADEMAR_C,29_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+4363,58.291846,59.291846,1.0,DENCRU,C,DENCRU_C,9_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+154,18.211422,19.211422,1.0,ADEMAR,C,ADEMAR_C,17_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+1583,45.407758,46.407758,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3553,132.057363,133.057363,1.0,BOAFAB,C,BOAFAB_C,33_FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+3788,41.464,42.464,1.0,BOALEP,C,BOALEP_C,1_FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030737_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+496,42.040991000000005,43.040991000000005,1.0,ADEMAR,C,ADEMAR_C,13_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+3259,7.655489,8.655489,0.9999999999999991,PHYCUV,C,PHYCUV_C,5_FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,False
+3504,30.838929999999998,31.838929999999998,1.0,BOAFAB,C,BOAFAB_C,20_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+3008,60.386097,61.386097,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,False
+521,49.513659,50.513659,1.0,ADEMAR,C,ADEMAR_C,6_FNJV_0050751_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050751_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2682,176.319115,177.319115,1.0,BOALEP,C,BOALEP_C,6_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+1791,78.995472,79.995472,1.0,PHYCUV,C,PHYCUV_C,59_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3196,25.248642,26.248642,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+1632,40.516867,41.516867,1.0,PHYCUV,C,PHYCUV_C,39_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2346,731.523972,732.523972,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2615,22.535563,23.535563,1.0,BOALEP,C,BOALEP_C,0_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+2190,402.67076,403.67076,1.0,BOAFAB,C,BOAFAB_C,77_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3067,44.942967,45.942967,1.0,PHYCUV,C,PHYCUV_C,38_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+4250,21.980509,22.980509,1.0,BOAFAB,C,BOAFAB_C,21_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+4333,4.673175,5.673175,1.0,DENCRU,C,DENCRU_C,4_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+3638,39.510461,40.510461,1.0,BOAFAB,C,BOAFAB_C,39_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1284,13.987338,14.987338,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+3503,29.838929999999998,30.838929999999998,1.0,BOAFAB,C,BOAFAB_C,19_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+1600,8.516867,9.516867,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+1173,64.992582,65.992582,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+591,12.237455,13.237455,1.0,ADEMAR,C,ADEMAR_C,10_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2897,103.555592,104.555592,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+2876,66.076387,67.076387,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+202,66.211422,67.211422,1.0,ADEMAR,C,ADEMAR_C,65_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+120,17.392717,18.392717,1.0,ADEMAR,C,ADEMAR_C,16_FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,False
+3134,50.622717,51.622717,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+3852,26.887435,27.887435,1.0,BOAFAB,C,BOAFAB_C,2_FNJV_0011774_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011774_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+3582,116.785679,117.785679,1.0,BOAFAB,C,BOAFAB_C,23_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+2955,1.663529,2.663529,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,False
+3631,32.510461,33.510461,1.0,BOAFAB,C,BOAFAB_C,32_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+743,54.385674,55.385674,1.0,ADEMAR,C,ADEMAR_C,52_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+3826,175.744338,176.744338,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0011775_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011775_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+3354,88.38945799999999,89.38945799999999,1.0,PHYCUV,C,PHYCUV_C,25_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+3624,25.510461,26.510461,1.0,BOAFAB,C,BOAFAB_C,25_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+600,21.237455,22.237455,1.0,ADEMAR,C,ADEMAR_C,19_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1884,228.106531,229.106531,1.0,BOAFAB,C,BOAFAB_C,8_FNJV_0032295_Boana_faber_Not specified_SP_Lucas Rodriguez Forti.wav,FNJV_0032295_Boana_faber_Not specified_SP_Lucas Rodriguez Forti.wav,True
+1987,180.230338,181.230338,1.0,BOAFAB,C,BOAFAB_C,27_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1323,64.420518,65.420518,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+2162,374.67076,375.67076,1.0,BOAFAB,C,BOAFAB_C,49_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3980,80.838597,81.838597,1.0,BOAFAB,C,BOAFAB_C,79_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2946,59.89999,60.89999,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,False
+3127,43.622717,44.622717,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+1652,60.516867,61.516867,1.0,PHYCUV,C,PHYCUV_C,59_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2823,17.970892,18.970892,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+1112,6.782597,7.782597,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+503,54.05714,55.05714,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+667,28.575646,29.575646,1.0,ADEMAR,C,ADEMAR_C,26_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1604,12.516867,13.516867,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2882,72.076387,73.076387,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+1124,22.165587000000002,23.165587000000002,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+1599,7.5168669999999995,8.516867,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+739,50.385674,51.385674,1.0,ADEMAR,C,ADEMAR_C,48_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2434,21.013442,22.013442,1.0,BOARAN,C,BOARAN_C,1_FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,False
+495,41.040991000000005,42.040991000000005,1.0,ADEMAR,C,ADEMAR_C,12_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+2442,35.628951,36.628951,1.0,BOARAN,C,BOARAN_C,2_FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,False
+1519,59.288847,60.288847,1.0,BOARAN,C,BOARAN_C,1_FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+1881,225.106531,226.106531,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032295_Boana_faber_Not specified_SP_Lucas Rodriguez Forti.wav,FNJV_0032295_Boana_faber_Not specified_SP_Lucas Rodriguez Forti.wav,True
+2817,11.970892,12.970892,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+3519,45.83893,46.83893,1.0,BOAFAB,C,BOAFAB_C,35_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+1808,95.995472,96.995472,1.0,PHYCUV,C,PHYCUV_C,76_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+578,44.125458,45.125458,1.0,ADEMAR,C,ADEMAR_C,42_FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2295,517.447079,518.447079,1.0,BOAFAB,C,BOAFAB_C,1_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+168,32.211422,33.211422,1.0,ADEMAR,C,ADEMAR_C,31_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+1095,26.056506,27.056506,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+4359,54.291846,55.291846,1.0,DENCRU,C,DENCRU_C,5_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1520,83.251571,84.251571,1.0,BOARAN,C,BOARAN_C,0_FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+257,57.723382,58.723382,1.0,ADEMAR,C,ADEMAR_C,17_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+3801,1.224172,2.224172,0.9999999999999998,SCIFUS,C,SCIFUS_C,1_FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+1738,25.995472,26.995472,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3709,110.510461,111.510461,1.0,BOAFAB,C,BOAFAB_C,110_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+3191,15.207574000000001,16.207574,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+2595,3.692811,4.692811,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+2198,410.67076,411.67076,1.0,BOAFAB,C,BOAFAB_C,85_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2446,41.988048,42.988048,1.0,BOARAN,C,BOARAN_C,1_FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,False
+2336,628.36075,629.36075,1.0,BOAFAB,C,BOAFAB_C,10_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2456,11.212786000000001,12.212786000000001,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+2792,96.93644,97.93644,1.0,BOAFAB,C,BOAFAB_C,11_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+3552,131.057363,132.057363,1.0,BOAFAB,C,BOAFAB_C,32_FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+4097,197.838597,198.838597,1.0,BOAFAB,C,BOAFAB_C,196_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+908,24.545618,25.545618,1.0,BOAALM,C,BOAALM_C,5_FNJV_0044155_Boana_albomarginata_Itaguai_RJ_Eugenio Izecksohn.wav,FNJV_0044155_Boana_albomarginata_Itaguai_RJ_Eugenio Izecksohn.wav,False
+4389,120.125293,121.125293,1.0,DENCRU,C,DENCRU_C,0_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+3273,24.203723,25.203723,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,False
+2259,477.037695,478.037695,1.0,BOAFAB,C,BOAFAB_C,12_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+752,9.021009,10.021009,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+1119,17.165587000000002,18.165587000000002,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+3262,10.655489,11.655489,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,False
+2222,434.67076,435.67076,1.0,BOAFAB,C,BOAFAB_C,109_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+999,64.851957,65.851957,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+1120,18.165587000000002,19.165587000000002,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+958,106.743018,107.743018,1.0,DENELE,C,DENELE_C,1_FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,False
+1799,86.995472,87.995472,1.0,PHYCUV,C,PHYCUV_C,67_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1619,27.516867,28.516867,1.0,PHYCUV,C,PHYCUV_C,26_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2598,9.151262,10.151262,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031773_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+3176,25.846550999999998,26.846550999999998,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+4167,0.911248,1.911248,1.0,ADEMAR,C,ADEMAR_C,0_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+1494,39.825567,40.825567,1.0,ADEMAR,C,ADEMAR_C,9_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+1471,14.293179,15.293179,1.0,ADEMAR,C,ADEMAR_C,13_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+3706,107.510461,108.510461,1.0,BOAFAB,C,BOAFAB_C,107_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+3352,86.38945799999999,87.38945799999999,1.0,PHYCUV,C,PHYCUV_C,23_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+1626,34.516867,35.516867,1.0,PHYCUV,C,PHYCUV_C,33_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+1024,89.851957,90.851957,1.0,PHYCUV,C,PHYCUV_C,26_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+234,10.368922,11.368922,1.0,ADEMAR,C,ADEMAR_C,8_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+2493,49.849802,50.849802,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+4254,25.980509,26.980509,1.0,BOAFAB,C,BOAFAB_C,25_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+4100,200.838597,201.838597,1.0,BOAFAB,C,BOAFAB_C,199_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4468,127.977159,128.977159,1.0,DENCRU,C,DENCRU_C,1_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+2042,245.047982,246.047982,1.0,BOAFAB,C,BOAFAB_C,47_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1452,157.116908,158.116908,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+1416,113.431403,114.431403,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+974,29.815604,30.815604,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+2154,366.67076,367.67076,1.0,BOAFAB,C,BOAFAB_C,41_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3907,7.838597,8.838597,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1371,130.581485,131.581485,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+4406,14.706842,15.706842,1.0,DENCRU,C,DENCRU_C,6_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+932,4.562431,5.562431,1.0,SCIFUS,C,SCIFUS_C,1_FNJV_0040788_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0040788_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+1574,36.407758,37.407758,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032896_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+2785,89.93644,90.93644,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+901,7.377101,8.377101,1.0,BOAALM,C,BOAALM_C,0_FNJV_0044155_Boana_albomarginata_Itaguai_RJ_Eugenio Izecksohn.wav,FNJV_0044155_Boana_albomarginata_Itaguai_RJ_Eugenio Izecksohn.wav,False
+368,6.117329,7.117329,1.0,ADEMAR,C,ADEMAR_C,4_FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050758_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+3512,38.83893,39.83893,1.0,BOAFAB,C,BOAFAB_C,28_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+499,45.040991000000005,46.040991000000005,1.0,ADEMAR,C,ADEMAR_C,16_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+3668,69.510461,70.510461,1.0,BOAFAB,C,BOAFAB_C,69_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+939,47.552233,48.552233,1.0,SCIFUS,C,SCIFUS_C,2_FNJV_0040779_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0040779_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+4416,24.706842,25.706842,1.0,DENCRU,C,DENCRU_C,16_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+3287,4.808199,5.808199,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+1512,35.157365,36.157365,1.0,BOARAN,C,BOARAN_C,0_FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+284,84.723382,85.723382,1.0,ADEMAR,C,ADEMAR_C,44_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1270,122.808161,123.808161,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+2000,203.047982,204.047982,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+802,59.021009,60.021009,1.0,ADEMAR,C,ADEMAR_C,52_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+1170,61.992582,62.992582,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+3019,78.102532,79.102532,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,False
+3400,31.784645,32.784645,0.9999999999999964,PHYCUV,C,PHYCUV_C,1_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+2025,228.047982,229.047982,1.0,BOAFAB,C,BOAFAB_C,30_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3972,72.838597,73.838597,1.0,BOAFAB,C,BOAFAB_C,71_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+301,10.785565,11.785565,1.0,ADEMAR,C,ADEMAR_C,9_FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+2481,36.212786,37.212786,1.0,PHYCUV,C,PHYCUV_C,31_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+1096,35.288895,36.288895,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+3325,56.471449,57.471449,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+1912,91.939679,92.939679,1.0,BOAFAB,C,BOAFAB_C,15_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+744,55.385674,56.385674,1.0,ADEMAR,C,ADEMAR_C,53_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+3831,3.282256,4.282256,1.0000000000000004,BOAFAB,C,BOAFAB_C,1_FNJV_0011774_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011774_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+1342,88.229238,89.229238,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+2225,437.67076,438.67076,1.0,BOAFAB,C,BOAFAB_C,112_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3949,49.838597,50.838597,1.0,BOAFAB,C,BOAFAB_C,48_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3035,12.942967,13.942967,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+3722,123.510461,124.510461,1.0,BOAFAB,C,BOAFAB_C,123_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1226,60.582675,61.582675,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+2738,41.236402,42.236402,1.0,BOAFAB,C,BOAFAB_C,41_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+3934,34.838597,35.838597,1.0,BOAFAB,C,BOAFAB_C,33_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3300,17.808199000000002,18.808199000000002,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+1057,15.754638,16.754638,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,False
+2563,24.76074,25.76074,1.0,ADEMAR,C,ADEMAR_C,19_FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+699,10.385674,11.385674,1.0,ADEMAR,C,ADEMAR_C,8_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2102,307.191316,308.191316,1.0,BOAFAB,C,BOAFAB_C,3_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+264,64.723382,65.723382,1.0,ADEMAR,C,ADEMAR_C,24_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+3596,130.78567900000002,131.78567900000002,1.0,BOAFAB,C,BOAFAB_C,37_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+2015,218.047982,219.047982,1.0,BOAFAB,C,BOAFAB_C,20_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3046,23.942967,24.942967,1.0,PHYCUV,C,PHYCUV_C,17_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+603,24.237455,25.237455,1.0,ADEMAR,C,ADEMAR_C,22_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1800,87.995472,88.995472,1.0,PHYCUV,C,PHYCUV_C,68_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1866,32.308547000000004,33.308547000000004,1.0,BOAFAB,C,BOAFAB_C,3_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+220,84.211422,85.211422,1.0,ADEMAR,C,ADEMAR_C,83_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+817,90.191844,91.191844,1.0,ADEMAR,C,ADEMAR_C,5_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+3895,39.905344,40.905344,1.0,BOAFAB,C,BOAFAB_C,8_FNJV_0011771_Boana_faber_Tijucas do Sul_PR_Luiz dos Anjos.wav,FNJV_0011771_Boana_faber_Tijucas do Sul_PR_Luiz dos Anjos.wav,True
+929,126.494018,127.494018,1.0,BOAALM,C,BOAALM_C,0_FNJV_0043868_Boana_albomarginata_Picinguaba_SP_Guilherme Augusto-Alves.wav,FNJV_0043868_Boana_albomarginata_Picinguaba_SP_Guilherme Augusto-Alves.wav,False
+2722,25.236402,26.236402,1.0,BOAFAB,C,BOAFAB_C,25_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+1977,170.230338,171.230338,1.0,BOAFAB,C,BOAFAB_C,17_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2679,173.319115,174.319115,1.0,BOALEP,C,BOALEP_C,3_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+1240,81.727068,82.727068,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+2117,329.67076,330.67076,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+710,21.385674,22.385674,1.0,ADEMAR,C,ADEMAR_C,19_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1631,39.516867,40.516867,1.0,PHYCUV,C,PHYCUV_C,38_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+2353,738.523972,739.523972,1.0,BOAFAB,C,BOAFAB_C,13_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1768,55.995472,56.995472,1.0,PHYCUV,C,PHYCUV_C,36_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3646,47.510461,48.510461,1.0,BOAFAB,C,BOAFAB_C,47_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+2074,277.047982,278.047982,1.0,BOAFAB,C,BOAFAB_C,79_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2047,250.047982,251.047982,1.0,BOAFAB,C,BOAFAB_C,52_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+123,20.392717,21.392717,1.0,ADEMAR,C,ADEMAR_C,19_FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,False
+3802,2.224172,3.224172,1.0,SCIFUS,C,SCIFUS_C,2_FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+4281,2.531228,3.531228,1.0,BOAFAB,C,BOAFAB_C,2_FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+3665,66.510461,67.510461,1.0,BOAFAB,C,BOAFAB_C,66_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+2701,4.236402,5.236402,1.0,BOAFAB,C,BOAFAB_C,4_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+2802,9.427682,10.427682,1.0,SCIFUS,C,SCIFUS_C,1_FNJV_0031363_Scinax_fuscomarginatus_Paulinia_SP_Ivan Sazima.wav,FNJV_0031363_Scinax_fuscomarginatus_Paulinia_SP_Ivan Sazima.wav,False
+2532,15.545109,16.545109,1.0,BOAALM,C,BOAALM_C,1_FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031817_Boana_albomarginata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+673,34.575646,35.575646,1.0,ADEMAR,C,ADEMAR_C,32_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+3579,113.785679,114.785679,1.0,BOAFAB,C,BOAFAB_C,20_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+1944,125.993143,126.993143,1.0,BOAFAB,C,BOAFAB_C,24_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1596,4.5168669999999995,5.5168669999999995,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+1765,52.995472,53.995472,1.0,PHYCUV,C,PHYCUV_C,33_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3588,122.785679,123.785679,1.0,BOAFAB,C,BOAFAB_C,29_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+2948,61.89999,62.89999,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,False
+650,11.575645999999999,12.575645999999999,1.0,ADEMAR,C,ADEMAR_C,9_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1219,44.933189,45.933189,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+756,13.021009,14.021009,1.0,ADEMAR,C,ADEMAR_C,6_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+1952,133.993143,134.993143,1.0,BOAFAB,C,BOAFAB_C,32_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+767,24.021009,25.021009,1.0,ADEMAR,C,ADEMAR_C,17_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+3931,31.838597,32.838597,1.0,BOAFAB,C,BOAFAB_C,30_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+803,60.021009,61.021009,1.0,ADEMAR,C,ADEMAR_C,53_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+608,29.237455,30.237455,1.0,ADEMAR,C,ADEMAR_C,27_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+4344,17.231005,18.231005,1.0,DENCRU,C,DENCRU_C,3_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1251,92.727068,93.727068,1.0,PHYCUV,C,PHYCUV_C,16_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+678,39.575646,40.575646,1.0,ADEMAR,C,ADEMAR_C,37_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1458,1.293179,2.2931790000000003,1.0000000000000002,ADEMAR,C,ADEMAR_C,0_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+3358,92.38945799999999,93.38945799999999,1.0,PHYCUV,C,PHYCUV_C,29_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+4463,121.19417,122.19417,1.0,DENCRU,C,DENCRU_C,5_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+4231,2.980509,3.980509,1.0,BOAFAB,C,BOAFAB_C,2_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+1786,73.995472,74.995472,1.0,PHYCUV,C,PHYCUV_C,54_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+150,14.211422,15.211422,1.0,ADEMAR,C,ADEMAR_C,13_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+563,29.125458000000002,30.125458000000002,1.0,ADEMAR,C,ADEMAR_C,27_FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+806,63.021009,64.021009,1.000000000000007,ADEMAR,C,ADEMAR_C,56_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+570,36.125458,37.125458,1.0,ADEMAR,C,ADEMAR_C,34_FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1916,95.939679,96.939679,1.0,BOAFAB,C,BOAFAB_C,19_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2524,88.807068,89.807068,1.0,DENELE,C,DENELE_C,4_FNJV_0031844_Dendropsophus_elegans_Itaguai_RJ_Werner C. A. Bokermann.wav,FNJV_0031844_Dendropsophus_elegans_Itaguai_RJ_Werner C. A. Bokermann.wav,False
+441,22.70712,23.70712,1.0,ADEMAR,C,ADEMAR_C,20_FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4025,125.838597,126.838597,1.0,BOAFAB,C,BOAFAB_C,124_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4375,87.358392,88.358392,1.0,DENCRU,C,DENCRU_C,0_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+982,37.815604,38.815604,1.0,PHYCUV,C,PHYCUV_C,14_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+1064,44.837183,45.837183,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,False
+2124,336.67076,337.67076,1.0,BOAFAB,C,BOAFAB_C,11_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2397,11.717869,12.717869,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,False
+2146,358.67076,359.67076,1.0,BOAFAB,C,BOAFAB_C,33_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2978,40.689659,41.689659,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,False
+1542,33.091524,34.091524,1.0,BOARAN,C,BOARAN_C,3_FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+48,48.985377,49.985377,1.0,BOAFAB,C,BOAFAB_C,48_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+873,49.391231,50.391231,1.0,ADEMAR,C,ADEMAR_C,14_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+1837,28.093842,29.093842,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,False
+3720,121.510461,122.510461,1.0,BOAFAB,C,BOAFAB_C,121_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+4531,127.124894,128.12489399999998,0.9999999999999858,DENCRU,C,DENCRU_C,5_1577-D.cruzi.wav,1577-D.cruzi.wav,False
+4352,45.167042,46.167042,1.0,DENCRU,C,DENCRU_C,0_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1811,81.055175,82.055175,1.0,BOAALM,C,BOAALM_C,0_FNJV_0032848_Boana_albomarginata_Porto Real_RJ_Jonas Pederassi.wav,FNJV_0032848_Boana_albomarginata_Porto Real_RJ_Jonas Pederassi.wav,False
+654,15.575645999999999,16.575646,1.0,ADEMAR,C,ADEMAR_C,13_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2408,38.020128,39.020128,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,False
+2187,399.67076,400.67076,1.0,BOAFAB,C,BOAFAB_C,74_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+72,72.985377,73.985377,1.0,BOAFAB,C,BOAFAB_C,72_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+4379,106.890957,107.890957,1.0,DENCRU,C,DENCRU_C,2_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+937,45.552233,46.552233,1.0,SCIFUS,C,SCIFUS_C,0_FNJV_0040779_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0040779_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+895,71.391231,72.391231,1.0,ADEMAR,C,ADEMAR_C,36_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+1322,63.420518,64.420518,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+3186,10.207574000000001,11.207574000000001,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+3345,79.38945799999999,80.38945799999999,1.0,PHYCUV,C,PHYCUV_C,16_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+976,31.815604,32.815604,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+2668,126.63159,127.63159,1.0,BOALEP,C,BOALEP_C,1_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+3310,32.045388,33.045388,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+573,39.125458,40.125458,1.0,ADEMAR,C,ADEMAR_C,37_FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+4412,20.706842,21.706842,1.0,DENCRU,C,DENCRU_C,12_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+3298,15.808199,16.808199000000002,1.0000000000000018,PHYCUV,C,PHYCUV_C,13_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+4315,54.300471,55.300471,1.0,DENCRU,C,DENCRU_C,3_1584-D.cruzi.wav,1584-D.cruzi.wav,False
+108,5.392717,6.392717,1.0,ADEMAR,C,ADEMAR_C,4_FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,FNJV_0050786_Adenomera_marmorata_Sao Luiz do Paraitinga_SP_Thiago R. Carvalho.wav,False
+941,49.552233,50.552233,1.0,SCIFUS,C,SCIFUS_C,4_FNJV_0040779_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0040779_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+2559,20.76074,21.76074,1.0,ADEMAR,C,ADEMAR_C,15_FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+3005,53.707679,54.707679,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,False
+3077,33.947527,34.947527,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0031214_Physalaemus_cuvieri_Itapema_SC_Ivan Sazima.wav,FNJV_0031214_Physalaemus_cuvieri_Itapema_SC_Ivan Sazima.wav,False
+3299,16.808199000000002,17.808199000000002,1.0,PHYCUV,C,PHYCUV_C,14_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+712,23.385674,24.385674,1.0,ADEMAR,C,ADEMAR_C,21_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+3796,17.356235,18.356235,1.0,SCIFUS,C,SCIFUS_C,0_FNJV_0013045_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0013045_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+3730,131.510461,132.510461,1.0,BOAFAB,C,BOAFAB_C,131_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+81,81.985377,82.985377,1.0,BOAFAB,C,BOAFAB_C,81_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+807,64.021009,65.021009,1.0,ADEMAR,C,ADEMAR_C,57_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+3739,2.682348,3.682348,1.0,BOALEP,C,BOALEP_C,0_FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0030738_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+0,0.985377,1.985377,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+2708,11.236402,12.236402,1.0,BOAFAB,C,BOAFAB_C,11_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+4280,1.531228,2.531228,1.0,BOAFAB,C,BOAFAB_C,1_FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+4417,25.706842,26.706842,1.0,DENCRU,C,DENCRU_C,17_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+4455,110.772537,111.772537,1.0,DENCRU,C,DENCRU_C,27_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+522,50.513659,51.513659,1.0,ADEMAR,C,ADEMAR_C,7_FNJV_0050751_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050751_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+3232,72.288595,73.288595,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+3597,131.78567900000002,132.78567900000002,1.0,BOAFAB,C,BOAFAB_C,38_FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030858_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+473,2.0742659999999997,3.0742659999999997,1.0,ADEMAR,C,ADEMAR_C,1_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+2413,43.020128,44.020128,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,False
+1869,35.308547000000004,36.308547000000004,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+967,8.198041,9.198041,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+2185,397.67076,398.67076,1.0,BOAFAB,C,BOAFAB_C,72_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1395,34.993962,35.993962,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+199,63.211422,64.211422,1.0,ADEMAR,C,ADEMAR_C,62_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+2570,31.76074,32.76074,1.0,ADEMAR,C,ADEMAR_C,26_FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+4047,147.838597,148.838597,1.0,BOAFAB,C,BOAFAB_C,146_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3641,42.510461,43.510461,1.0,BOAFAB,C,BOAFAB_C,42_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+877,53.391231,54.391231,1.0,ADEMAR,C,ADEMAR_C,18_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+2398,12.717869,13.717869,1.0,PHYCUV,C,PHYCUV_C,6_FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,False
+3985,85.838597,86.838597,1.0,BOAFAB,C,BOAFAB_C,84_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+207,71.211422,72.211422,1.0,ADEMAR,C,ADEMAR_C,70_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+4184,17.911248,18.911248,1.0,ADEMAR,C,ADEMAR_C,17_FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,FNJV_0011238_Adenomera_marmorata_Ubatuba_SP_Adao Jose Cardoso.wav,False
+1838,29.093842,30.093842,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,False
+2880,70.076387,71.076387,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+1488,33.825567,34.825567,1.0,ADEMAR,C,ADEMAR_C,3_FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,FNJV_0034600_Adenomera_marmorata_Santo Andre_SP_Paulo Roberto Manzani.mp3,False
+1266,118.808161,119.808161,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+4133,233.838597,234.838597,1.0,BOAFAB,C,BOAFAB_C,232_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2712,15.236402,16.236402,0.9999999999999982,BOAFAB,C,BOAFAB_C,15_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+3470,117.659813,118.659813,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+194,58.211422,59.211422,1.0,ADEMAR,C,ADEMAR_C,57_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+4090,190.838597,191.838597,1.0,BOAFAB,C,BOAFAB_C,189_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3805,5.224172,6.224172,1.0,SCIFUS,C,SCIFUS_C,5_FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,FNJV_0013034_Scinax_fuscomarginatus_Itirapina_SP_Luis Felipe Toledo.wav,False
+919,131.476893,132.476893,1.0,BOAALM,C,BOAALM_C,0_FNJV_0043979_Boana_albomarginata_Angra dos Reis_SP_Raoni Reboucas.wav,FNJV_0043979_Boana_albomarginata_Angra dos Reis_SP_Raoni Reboucas.wav,False
+2324,560.2514,561.2514,1.0,BOAFAB,C,BOAFAB_C,3_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3303,20.808199000000002,21.808199000000002,1.0,PHYCUV,C,PHYCUV_C,18_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+1404,86.587988,87.587988,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+729,40.385674,41.385674,1.0,ADEMAR,C,ADEMAR_C,38_FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050743_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+3337,71.38945799999999,72.38945799999999,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+507,58.05714,59.05714,1.0,ADEMAR,C,ADEMAR_C,6_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+2177,389.67076,390.67076,1.0,BOAFAB,C,BOAFAB_C,64_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3068,45.942967,46.942967,1.0,PHYCUV,C,PHYCUV_C,39_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+1260,112.808161,113.808161,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+3084,40.947527,41.947527,1.0,PHYCUV,C,PHYCUV_C,15_FNJV_0031214_Physalaemus_cuvieri_Itapema_SC_Ivan Sazima.wav,FNJV_0031214_Physalaemus_cuvieri_Itapema_SC_Ivan Sazima.wav,False
+2980,42.689659,43.689659,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,FNJV_0031225_Physalaemus_cuvieri_Engenheiro Beltrao_PR_Adao J. Cardoso.wav,False
+1037,51.502613,52.502613,1.0,BOAALM,C,BOAALM_C,0_FNJV_0040068_Boana_albomarginata_Dores do Rio Preto_ES_Victor Favaro Augusto.wav,FNJV_0040068_Boana_albomarginata_Dores do Rio Preto_ES_Victor Favaro Augusto.wav,False
+1099,38.288895,39.288895,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+1199,3.634382,4.6343820000000004,1.0000000000000004,PHYCUV,C,PHYCUV_C,2_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+2768,71.236402,72.236402,1.0,BOAFAB,C,BOAFAB_C,71_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+4471,130.977159,131.977159,1.0,DENCRU,C,DENCRU_C,4_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+2996,31.835553,32.835553000000004,1.0000000000000036,PHYCUV,C,PHYCUV_C,0_FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,FNJV_0031223_Physalaemus_cuvieri_Mineiros_GO_Adao J. Cardoso.wav,False
+596,17.237455,18.237455,1.0,ADEMAR,C,ADEMAR_C,15_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2467,22.212786,23.212786,1.0,PHYCUV,C,PHYCUV_C,17_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+2938,17.066355,18.066355,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,FNJV_0031226_Physalaemus_cuvieri_Mocamedes_GO_Adao J. Cardoso.wav,False
+193,57.211422,58.211422,1.0,ADEMAR,C,ADEMAR_C,56_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+3923,23.838597,24.838597,1.0,BOAFAB,C,BOAFAB_C,22_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2010,213.047982,214.047982,1.0,BOAFAB,C,BOAFAB_C,15_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2710,13.236402,14.236402,1.0,BOAFAB,C,BOAFAB_C,13_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+2639,76.447082,77.447082,1.0,BOALEP,C,BOALEP_C,4_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+2004,207.047982,208.047982,1.0,BOAFAB,C,BOAFAB_C,9_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3518,44.83893,45.83893,1.0,BOAFAB,C,BOAFAB_C,34_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+556,22.125458000000002,23.125458000000002,1.0,ADEMAR,C,ADEMAR_C,20_FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050750_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+434,15.70712,16.70712,1.0,ADEMAR,C,ADEMAR_C,13_FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4107,207.838597,208.838597,1.0,BOAFAB,C,BOAFAB_C,206_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1084,15.056506,16.056506,0.9999999999999982,PHYCUV,C,PHYCUV_C,4_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+2543,3.2423070000000003,4.242307,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+22,22.985377,23.985377,1.0,BOAFAB,C,BOAFAB_C,22_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+247,47.723382,48.723382,1.0,ADEMAR,C,ADEMAR_C,7_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1331,77.229238,78.229238,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+3939,39.838597,40.838597,1.0,BOAFAB,C,BOAFAB_C,38_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2111,321.167265,322.167265,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2826,30.077934,31.077934,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+4466,124.19417,125.19417,1.0,DENCRU,C,DENCRU_C,8_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+3997,97.838597,98.838597,1.0,BOAFAB,C,BOAFAB_C,96_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2546,7.76074,8.76074,1.0,ADEMAR,C,ADEMAR_C,2_FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031814_Adenomera_marmorata_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+179,43.211422,44.211422,1.0,ADEMAR,C,ADEMAR_C,42_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+2318,544.992788,545.992788,1.0,BOAFAB,C,BOAFAB_C,5_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+4020,120.838597,121.838597,1.0,BOAFAB,C,BOAFAB_C,119_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2355,740.523972,741.523972,1.0,BOAFAB,C,BOAFAB_C,15_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2182,394.67076,395.67076,1.0,BOAFAB,C,BOAFAB_C,69_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2079,282.047982,283.047982,1.0,BOAFAB,C,BOAFAB_C,84_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1787,74.995472,75.995472,1.0,PHYCUV,C,PHYCUV_C,55_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1538,26.625774,27.625774,1.0,BOARAN,C,BOARAN_C,2_FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+2622,32.901610000000005,33.901610000000005,1.0,BOALEP,C,BOALEP_C,6_FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,FNJV_0031594_Boana_leptolineata_Lages_SC_Adao Jose Cardoso.wav,False
+2038,241.047982,242.047982,1.0,BOAFAB,C,BOAFAB_C,43_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3297,14.808199,15.808199,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+4467,126.977159,127.977159,1.0,DENCRU,C,DENCRU_C,0_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+763,20.021009,21.021009,1.0,ADEMAR,C,ADEMAR_C,13_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+3261,9.655489,10.655489,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,False
+3265,13.655489,14.655489,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,FNJV_0031197_Physalaemus_cuvieri_Lages_SC_Adao J. Cardoso.wav,False
+3173,22.846550999999998,23.846550999999998,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+3815,75.661969,76.661969,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0011777_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0011777_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+460,3.212043,4.2120429999999995,0.9999999999999996,ADEMAR,C,ADEMAR_C,2_FNJV_0050753_Adenomera_marmorata_Guapimirim_RJ_Pedro P. G. Taucce.wav,FNJV_0050753_Adenomera_marmorata_Guapimirim_RJ_Pedro P. G. Taucce.wav,False
+1059,17.754638,18.754638,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,False
+226,2.368922,3.368922,1.0,ADEMAR,C,ADEMAR_C,0_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+2923,33.752582000000004,34.752582000000004,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031228_Physalaemus_cuvieri_Sao Raimundo Nonato_PI_Adao J. Cardoso.wav,FNJV_0031228_Physalaemus_cuvieri_Sao Raimundo Nonato_PI_Adao J. Cardoso.wav,False
+2381,766.523972,767.523972,1.0,BOAFAB,C,BOAFAB_C,41_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1410,101.760155,102.760155,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+1149,88.812373,89.812373,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036654_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+2163,375.67076,376.67076,1.0,BOAFAB,C,BOAFAB_C,50_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1547,45.491442,46.491442,1.0,BOARAN,C,BOARAN_C,1_FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+482,14.802677,15.802677,1.0,ADEMAR,C,ADEMAR_C,5_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+760,17.021009,18.021009,1.0,ADEMAR,C,ADEMAR_C,10_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+305,14.785565,15.785565,1.0,ADEMAR,C,ADEMAR_C,13_FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1075,4.659753,5.659753,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+1683,5.81189,6.81189,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1100,39.288895,40.288895,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,FNJV_0036683_Physalaemus_cuvieri_Alto Caparao_MG_Guilherme Augusto-Alves.wav,False
+785,42.021009,43.021009,1.0,ADEMAR,C,ADEMAR_C,35_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+2721,24.236402,25.236402,1.0,BOAFAB,C,BOAFAB_C,24_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+6,6.985377,7.985377,1.0,BOAFAB,C,BOAFAB_C,6_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+2067,270.047982,271.047982,1.0,BOAFAB,C,BOAFAB_C,72_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1166,32.640626,33.640626,1.0,PHYCUV,C,PHYCUV_C,12_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+4099,199.838597,200.838597,1.0,BOAFAB,C,BOAFAB_C,198_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+2450,5.212786,6.212786,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+2196,408.67076,409.67076,1.0,BOAFAB,C,BOAFAB_C,83_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3226,61.480401,62.480401,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+138,2.2114219999999998,3.2114219999999998,1.0,ADEMAR,C,ADEMAR_C,1_FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,FNJV_0050784_Adenomera_marmorata_PARNA da Tijuca_RJ_Carla S. Cassini.wav,False
+984,39.815604,40.815604,1.0,PHYCUV,C,PHYCUV_C,16_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+2141,353.67076,354.67076,1.0,BOAFAB,C,BOAFAB_C,28_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3195,24.248642,25.248642,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+4098,198.838597,199.838597,1.0,BOAFAB,C,BOAFAB_C,197_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1000,65.851957,66.851957,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,FNJV_0040093_Physalaemus_cuvieri_Divino de Sao Lourenco_ES_Carolina Lambertini.wav,False
+2829,33.077934,34.077934,1.0,PHYCUV,C,PHYCUV_C,4_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+439,20.70712,21.70712,1.0,ADEMAR,C,ADEMAR_C,18_FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050757_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+2427,6.537013,7.537013,1.0,BOARAN,C,BOARAN_C,1_FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,FNJV_0031881_Boana_raniceps_Cuiaba_MT_Werner Carlos Augusto Bokermann.wav,False
+2399,13.717869,14.717869,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,FNJV_0032009_Physalaemus_cuvieri_Sao Paulo_SP_Werner C. A. Bokermann.wav,False
+3873,21.197842,22.197842,1.0,BOAFAB,C,BOAFAB_C,14_FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011772_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+4394,130.781281,131.781281,1.0,DENCRU,C,DENCRU_C,1_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1851,9.656284,10.656284,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,FNJV_0032464_Boana_faber_Feira de Santana_BA_Luis Felipe Toledo.wav,True
+1316,54.117297,55.117297,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+1063,43.837183,44.837183,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,FNJV_0037493_Physalaemus_cuvieri_Campo Grande_MS_Matheus Moroti.wav,False
+3168,17.846550999999998,18.846550999999998,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+2815,9.970892,10.970892,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031230_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
+1549,53.333917,54.333917,1.0,BOARAN,C,BOARAN_C,0_FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034119_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+483,29.040991,30.040991,1.0,ADEMAR,C,ADEMAR_C,0_FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,FNJV_0050752_Adenomera_marmorata_Petropolis_RJ_Pedro P. G. Taucce.wav,False
+4239,10.980509,11.980509,1.0,BOAFAB,C,BOAFAB_C,10_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+4475,142.338907,143.338907,1.0,DENCRU,C,DENCRU_C,1_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+750,7.021009,8.021009,0.9999999999999991,ADEMAR,C,ADEMAR_C,0_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+3132,48.622717,49.622717,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,FNJV_0031203_Physalaemus_cuvieri_Campinas_SP_Adao J. Cardoso.wav,False
+4446,101.772537,102.772537,1.0,DENCRU,C,DENCRU_C,18_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+1672,80.516867,81.516867,1.0,PHYCUV,C,PHYCUV_C,79_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+1701,29.611264,30.611264,1.0,PHYCUV,C,PHYCUV_C,11_FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+1789,76.995472,77.995472,1.0,PHYCUV,C,PHYCUV_C,57_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3185,9.207574000000001,10.207574000000001,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,FNJV_0031198_Physalaemus_cuvieri_Taquara_RS_Adao J. Cardoso.wav,False
+2241,456.847653,457.847653,1.0,BOAFAB,C,BOAFAB_C,2_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+955,77.511966,78.511966,1.0,DENELE,C,DENELE_C,1_FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,FNJV_0040142_Dendropsophus_elegans_Divino de Sao Lourenco_ES_Victor Favaro Augusto.wav,False
+1163,29.640626,30.640626,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+250,50.723382,51.723382,1.0,ADEMAR,C,ADEMAR_C,10_FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050766_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+4360,55.291846,56.291846,1.0,DENCRU,C,DENCRU_C,6_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+1742,29.995472,30.995472,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3052,29.942967,30.942967,1.0,PHYCUV,C,PHYCUV_C,23_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+4450,105.772537,106.772537,1.0,DENCRU,C,DENCRU_C,22_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+1257,106.275641,107.275641,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,FNJV_0036633_Physalaemus_cuvieri_Alto Caparao_MG_Carlos Henrique Luz Nunes Almeida.wav,False
+606,27.237455,28.237455,1.0,ADEMAR,C,ADEMAR_C,25_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+2125,337.67076,338.67076,1.0,BOAFAB,C,BOAFAB_C,12_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1386,12.264706,13.264706,1.0,PHYCUV,C,PHYCUV_C,2_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+4253,24.980509,25.980509,1.0,BOAFAB,C,BOAFAB_C,24_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+4156,256.838597,257.838597,1.0,BOAFAB,C,BOAFAB_C,255_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+1633,41.516867,42.516867,1.0,PHYCUV,C,PHYCUV_C,40_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+3845,17.282256,18.282256,1.0,BOAFAB,C,BOAFAB_C,15_FNJV_0011774_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,FNJV_0011774_Boana_faber_Jundiai_SP_Celio Fernando Baptista Haddad.wav,True
+3404,35.784645,36.784645,1.0,PHYCUV,C,PHYCUV_C,5_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+4066,166.838597,167.838597,1.0,BOAFAB,C,BOAFAB_C,165_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4143,243.838597,244.838597,1.0,BOAFAB,C,BOAFAB_C,242_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+320,7.245462,8.245462,1.0,ADEMAR,C,ADEMAR_C,6_FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050762_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+1975,168.230338,169.230338,1.0,BOAFAB,C,BOAFAB_C,15_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1301,34.293598,35.293598,1.0,PHYCUV,C,PHYCUV_C,8_FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036391_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+2463,18.212786,19.212786,1.0,PHYCUV,C,PHYCUV_C,13_FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,FNJV_0031872_Physalaemus_cuvieri_Santo Andre_SP_Werner Carlos Augusto Bokermann.wav,False
+4267,38.980509,39.980509,1.0,BOAFAB,C,BOAFAB_C,38_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+1646,54.516867,55.516867,1.0,PHYCUV,C,PHYCUV_C,53_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+3372,106.38945799999999,107.38945799999999,1.0,PHYCUV,C,PHYCUV_C,43_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+2803,63.783905,64.783905,1.000000000000007,SCIFUS,C,SCIFUS_C,0_FNJV_0031363_Scinax_fuscomarginatus_Paulinia_SP_Ivan Sazima.wav,FNJV_0031363_Scinax_fuscomarginatus_Paulinia_SP_Ivan Sazima.wav,False
+1513,38.78565,39.78565,1.0,BOARAN,C,BOARAN_C,0_FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,FNJV_0034120_Boana_raniceps_Aiuaba_CE_Diego Jose Santana.wav,False
+3598,203.830564,204.830564,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0030856_Boana_faber_Ubatuba_SP_Jacques Vielliard.wav,FNJV_0030856_Boana_faber_Ubatuba_SP_Jacques Vielliard.wav,True
+304,13.785565,14.785565,1.0,ADEMAR,C,ADEMAR_C,12_FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+306,15.785565,16.785565,0.9999999999999982,ADEMAR,C,ADEMAR_C,14_FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,FNJV_0050763_Adenomera_marmorata_PARNA do Itatiaia_RJ_Pedro P. G. Taucce.wav,False
+3442,76.482513,77.482513,1.0,PHYCUV,C,PHYCUV_C,1_FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,FNJV_0031193_Physalaemus_cuvieri_Cabreuva_SP_Gilda V. Andrade.wav,False
+3529,108.057363,109.057363,1.0,BOAFAB,C,BOAFAB_C,9_FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,FNJV_0030859_Boana_faber_Sao Paulo_SP_Ivan Sazima.wav,True
+4279,0.531228,1.531228,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,FNJV_0007692_Boana_faber_Santo Andre_SP_Adao Jose Cardoso.wav,True
+3174,23.846550999999998,24.846550999999998,1.0,PHYCUV,C,PHYCUV_C,9_FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031201_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+779,36.021009,37.021009,1.0,ADEMAR,C,ADEMAR_C,29_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+3366,100.38945799999999,101.38945799999999,1.0,PHYCUV,C,PHYCUV_C,37_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+2362,747.523972,748.523972,1.0,BOAFAB,C,BOAFAB_C,22_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3353,87.38945799999999,88.38945799999999,1.0,PHYCUV,C,PHYCUV_C,24_FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,FNJV_0031195_Physalaemus_cuvieri_Jundiai_SP_Celio F. B. Haddad.wav,False
+1164,30.640626,31.640626,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,FNJV_0036652_Physalaemus_cuvieri_Alto Caparao_MG_Camila Zornosa-Torres.wav,False
+1675,83.516867,84.516867,1.0,PHYCUV,C,PHYCUV_C,82_FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,FNJV_0032888_Physalaemus_cuvieri_Itaberai_GO_Rogerio Pereira Bastos.wav,False
+3493,19.838929999999998,20.838929999999998,1.0,BOAFAB,C,BOAFAB_C,9_FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,FNJV_0030861_Boana_faber_Campinas_SP_Celio Fernando Baptista Haddad.wav,True
+3058,35.942967,36.942967,1.0,PHYCUV,C,PHYCUV_C,29_FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,FNJV_0031215_Physalaemus_cuvieri_Pocos de Caldas_MG_Adao J. Cardoso.wav,False
+4157,257.838597,258.838597,1.0,BOAFAB,C,BOAFAB_C,256_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+641,2.575646,3.575646,1.0,ADEMAR,C,ADEMAR_C,0_FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050746_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+4481,150.349386,151.349386,1.0,DENCRU,C,DENCRU_C,0_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+4478,145.338907,146.338907,1.0,DENCRU,C,DENCRU_C,4_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+4338,9.673175,10.673175,1.0,DENCRU,C,DENCRU_C,9_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+4459,117.19417,118.19417,1.0,DENCRU,C,DENCRU_C,1_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+2137,349.67076,350.67076,1.0,BOAFAB,C,BOAFAB_C,24_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+1937,118.993143,119.993143,1.0,BOAFAB,C,BOAFAB_C,17_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+3737,138.510461,139.510461,1.0,BOAFAB,C,BOAFAB_C,138_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+821,94.191844,95.191844,1.0,ADEMAR,C,ADEMAR_C,9_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+787,44.021009,45.021009,1.0,ADEMAR,C,ADEMAR_C,37_FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,FNJV_0050739_Adenomera_marmorata_Mogi das Cruzes_SP_Carla S. Cassini.wav,False
+2750,53.236402,54.236402,1.0,BOAFAB,C,BOAFAB_C,53_FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,FNJV_0031503_Boana_faber_Obera_Not specified_Adao Jose Cardoso.wav,True
+1819,8.479227999999999,9.479227999999999,1.0,PHYCUV,C,PHYCUV_C,7_FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,FNJV_0032718_Physalaemus_cuvieri_Silvania_GO_Rogerio Pereira Bastos.wav,False
+516,44.513659,45.513659,1.0,ADEMAR,C,ADEMAR_C,1_FNJV_0050751_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050751_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+63,63.985377,64.985377,1.0,BOAFAB,C,BOAFAB_C,63_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+1780,67.995472,68.995472,1.0,PHYCUV,C,PHYCUV_C,48_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+4443,98.772537,99.772537,1.0,DENCRU,C,DENCRU_C,15_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+3635,36.510461,37.510461,1.0,BOAFAB,C,BOAFAB_C,36_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+592,13.237455,14.237455,1.0,ADEMAR,C,ADEMAR_C,11_FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,FNJV_0050747_Adenomera_marmorata_Paranapiacaba_SP_Pedro P. G. Taucce.wav,False
+1735,22.995472,23.995472,1.0,PHYCUV,C,PHYCUV_C,3_FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032855_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+4036,136.838597,137.838597,1.0,BOAFAB,C,BOAFAB_C,135_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+103,103.985377,104.985377,1.0,BOAFAB,C,BOAFAB_C,103_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+3615,16.510461,17.510461,1.0,BOAFAB,C,BOAFAB_C,16_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+1689,11.81189,12.81189,1.0,PHYCUV,C,PHYCUV_C,10_FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,FNJV_0032885_Physalaemus_cuvieri_Piracanjuba_GO_Rogerio Pereira Bastos.wav,False
+3901,1.838597,2.838597,1.0,BOAFAB,C,BOAFAB_C,0_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4336,7.673175,8.673175,1.0000000000000009,DENCRU,C,DENCRU_C,7_1583-D.cruzi.wav,1583-D.cruzi.wav,False
+4126,226.838597,227.838597,1.0,BOAFAB,C,BOAFAB_C,225_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+3959,59.838597,60.838597,1.0,BOAFAB,C,BOAFAB_C,58_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+857,29.038875,30.038875,1.0,ADEMAR,C,ADEMAR_C,0_FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,FNJV_0050733_Adenomera_marmorata_Paranapiacaba_SP_Ariovaldo A. Giaretta.wav,False
+3662,63.510461,64.510461,1.000000000000007,BOAFAB,C,BOAFAB_C,63_FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,FNJV_0030854_Boana_faber_Itabuna_BA_Jacques Vielliard.wav,True
+4404,12.706842,13.706842,1.0,DENCRU,C,DENCRU_C,4_1580-D.cruzi.wav,1580-D.cruzi.wav,False
+74,74.985377,75.985377,1.0,BOAFAB,C,BOAFAB_C,74_FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,FNJV_0051350_Boana_faber_Cananeia_SP_Simone Dena.wav,True
+4165,265.838597,266.838597,1.0,BOAFAB,C,BOAFAB_C,264_FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,FNJV_0011769_Boana_faber_Cabreuva_SP_Gilda Vasconcellos de Andrade.wav,True
+4241,12.980509,13.980509,1.0,BOAFAB,C,BOAFAB_C,12_FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,FNJV_0011067_Boana_faber_Campinas_SP_Marcio R. Martins.wav,True
+1398,45.842375,46.842375,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,FNJV_0036390_Physalaemus_cuvieri_Guaramiranga_CE_Caio Brito.wav,False
+1988,181.230338,182.230338,1.0,BOAFAB,C,BOAFAB_C,28_FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,FNJV_0032140_Boana_faber_Rio de Janeiro_RJ_Bertha Lutz.wav,True
+2901,111.271129,112.271129,1.0,PHYCUV,C,PHYCUV_C,0_FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,FNJV_0031229_Physalaemus_cuvieri_Monte Verde_MG_M. Gridi- Papp.wav,False
