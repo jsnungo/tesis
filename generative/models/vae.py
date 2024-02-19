@@ -4,7 +4,7 @@ import torch.nn.functional as F
 
 
 class VAE(nn.Module):
-    def __init__(self, in_out_dim, latent_dim):
+    def __init__(self, in_out_dim=16000, latent_dim=20):
         super(VAE, self).__init__()
 
         self.latent_dim = latent_dim

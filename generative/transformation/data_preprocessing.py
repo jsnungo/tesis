@@ -7,16 +7,17 @@ import torch
 import numpy as np
 
 
-class OutVAE(object):
+class OutGenAI(object):
     """Loads an audio into a numpy array."""
 
-    def __init__(self):
-        pass
+    def __init__(self, scale: bool):
+        self.scale = scale
         
     def __call__(self, data):
         audio = data['samples']
         x = np.clip(audio, -1, 1)
-        x = (audio + 1) / 2
+        if self.scale:
+            x = (audio + 1) / 2
 
         data['samples'] = x
 
@@ -32,10 +33,10 @@ def get_data_composing(model: str):
     ]
 
     if model == 'VAE':
-        base.append(OutVAE())
-        pass
+        base.append(OutGenAI(True))
     if model == 'DIFFUSSION':
-        pass
+        base.append(OutGenAI(False))
+
 
     compose_pp = Compose(base)
 

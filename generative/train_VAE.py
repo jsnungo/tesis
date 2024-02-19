@@ -3,13 +3,10 @@ import time
 import models
 
 import torch
-from classificador.transforms import transforms_wav as twav
-from classificador.transforms import transforms_stft as tstft
-from generative.dataset_manager import GenAIDataset
+from dataset_manager import GenAIDataset
 from torch.utils.data import DataLoader
 
 from transformation.data_preprocessing import get_data_composing
-
 
 
 parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)

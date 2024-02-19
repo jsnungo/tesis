@@ -1,10 +1,12 @@
+from .vae import VAE
+
 available_models = [
     'VAE', 'DIFFUSSION'
 ]
 
-def create_model(model_name, num_classes, in_channels):
-    pass
-    # if model_name == "resnet18":
+def create_model(model_name):
+    if model_name == "VAE":
+        model = VAE()
     #     model = resnet18(num_classes=num_classes, in_channels=in_channels)
     # if model_name == "resnet34":
     #     model = resnet34(num_classes=num_classes, in_channels=in_channels)
@@ -32,4 +34,4 @@ def create_model(model_name, num_classes, in_channels):
     #     model = DenseNet(depth=190, growthRate=40, compressionRate=2, num_classes=num_classes, in_channels=in_channels)
     # else:
     #     model = vgg19_bn(num_classes=num_classes, in_channels=in_channels)
-    # return model
+    return model
