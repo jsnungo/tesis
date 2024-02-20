@@ -2,7 +2,7 @@ from torch.utils.data import Dataset
 import os
 
 
-class GenAIDataset(Dataset):
+class GenerativeAIDataset(Dataset):
 
     def __init__(self, folder, transform=None, class_c=None) -> None:
         all_classes = [
