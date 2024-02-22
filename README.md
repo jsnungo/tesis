@@ -5,7 +5,7 @@ python generative/train.py --model=VAE --lr-scheduler=plateau --max-epochs=70 --
 
 # Run training Difussion
 ```sh
-python generative/train.py --model=VAE --lr-scheduler=plateau --max-epochs=70 --batch-size=28
+python generative/train.py --model=DIFFUSION --lr-scheduler=plateau --max-epochs=70 --batch-size=28
 ```
 
 

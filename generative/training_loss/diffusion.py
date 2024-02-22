@@ -21,7 +21,6 @@ def compute_diffusion_training_loss(model, batch, diffusion_hyperparams):
 
     audio = batch
     device = batch.device
-    breakpoint()
     B, C, L = audio.shape  # B is batchsize, C=1, L is audio length
     diffusion_steps = torch.randint(T, size=(B,1,1)).to(device)  # randomly sample diffusion steps from 1~T
     z = std_normal(audio.shape).to(device)

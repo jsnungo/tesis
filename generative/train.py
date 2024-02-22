@@ -53,7 +53,6 @@ def train(epoch):
     running_loss = 0.0
     for step, batch in enumerate(train_dataloader):
         batch = batch['samples'].to(device)
-        breakpoint()
         optimizer.zero_grad()
         loss = training_loss_function(model, batch)
         loss.backward()
