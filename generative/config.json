@@ -1,0 +1,18 @@
+{   
+    "diffusion_config":{
+        "T": 200,
+        "beta_0": 0.0001,
+        "beta_T": 0.02
+    },
+    "wavenet_config": {
+        "in_channels": 1, 
+        "res_channels": 256, 
+        "skip_channels": 256, 
+        "out_channels": 1, 
+        "num_res_layers": 36, 
+        "dilation_cycle": 12, 
+        "diffusion_step_embed_dim_in": 128,
+        "diffusion_step_embed_dim_mid": 512,
+        "diffusion_step_embed_dim_out": 512
+    }
+}
