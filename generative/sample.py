@@ -42,8 +42,7 @@ elif model_name == 'DIFFUSSION':
     diffusion_config = config['diffusion_config']
     diffusion_hyperparams = calc_diffusion_hyperparams(**diffusion_config)
     model = torch.load(f'{model_name}_model.pth').to(device)
-
-samples = get_diffusion_sample(model, (n_samples, 1, sr), diffusion_hyperparams)
+    samples = get_diffusion_sample(model, (n_samples, 1, sr), diffusion_hyperparams)
 
 for n, s in enumerate(samples):
     s = s[0]
