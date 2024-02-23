@@ -5,11 +5,16 @@ available_models = [
     'VAE', 'DIFFUSION'
 ]
 
-def create_model(model_name, general_config=None):
+def create_model(model_name, config=None):
     if model_name == "VAE":
-        model = VAE()
+        sr = config['audio_config']['sample_rate']
+        secs = config['audio_config']['time_sample_sec']
+        in_out_dim = sr * secs
+
+        vae_config = config['VAE_configuraciones']
+        model = VAE(in_out_dim=in_out_dim, **vae_config)
     elif model_name == "DIFFUSION":
-        net_config = general_config['wavenet_config']
+        net_config = config['wavenet_config']
         model = WaveNet(**net_config)
 
     return model

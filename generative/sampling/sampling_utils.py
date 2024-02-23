@@ -42,7 +42,7 @@ def get_diffusion_sample(model, size, diffusion_hyperparams):
             epsilon_theta = model((x, diffusion_steps,))  # predict \epsilon according to \epsilon_\theta
             x = (x - (1-Alpha[t])/torch.sqrt(1-Alpha_bar[t]) * epsilon_theta) / torch.sqrt(Alpha[t])  # update x_{t-1} to \mu_\theta(x_t)
             if t > 0:
-                x = x + Sigma[t] * std_normal(size)  # add the variance term to x_{t-1}
+                x = x + Sigma[t] * std_normal(size).to(device)  # add the variance term to x_{t-1}
     return x
 
 def std_normal(size):

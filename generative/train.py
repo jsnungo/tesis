@@ -32,13 +32,13 @@ BATCH_SIZE = args.batch_size
 model_name = args.model
 lr = args.learning_rate
 
-data_processing = get_data_composing(model_name)
+data_processing = get_data_composing(model_name, config)
 train_dataset = GenerativeAIDataset(args.train_dataset,
                             data_processing,
                             class_c='BOAFAB')
 train_dataloader = DataLoader(train_dataset, batch_size=BATCH_SIZE, drop_last=True)
 
-model = models.create_model(model_name, general_config=config).to(device)
+model = models.create_model(model_name, config=config).to(device)
 training_loss_function = training_loss.get_loss_train(model_name, general_config=config)
 optimizer = torch.optim.Adam(model.parameters(), lr=lr)
 
@@ -62,8 +62,6 @@ def train(epoch):
             print(f"Epoch {epoch} | step {step:03d} Loss: {loss.item()} ")
 
         running_loss += loss.item()
-
-        break
 
     loss_epoch = running_loss / len(train_dataloader)
 

@@ -21,7 +21,10 @@ parser.add_argument("--config", type=str, default='./config.json', help='path of
 args = parser.parse_args()
 model_name = args.model
 n_samples = args.number_samples
-sr = 16000 # TODO: ponerlo de forma m'as general
+
+with open(args.config, 'r') as f:
+    config = json.load(f)
+    sr = config['audio_config']['sample_rate']
 
 with open(args.config, 'r') as f:
     config = json.load(f)
@@ -38,12 +41,12 @@ else:
 if model_name == 'VAE':
     model = torch.load(f'{model_name}_model.pth').to(device)
     samples = get_vae_sample(model, n_samples)
-elif model_name == 'DIFFUSSION':
+elif model_name == 'DIFFUSION':
     diffusion_config = config['diffusion_config']
     diffusion_hyperparams = calc_diffusion_hyperparams(**diffusion_config)
     model = torch.load(f'{model_name}_model.pth').to(device)
     samples = get_diffusion_sample(model, (n_samples, 1, sr), diffusion_hyperparams)
 
 for n, s in enumerate(samples):
-    s = s[0]
+    s = s[0].cpu()
     to_save_audio = sf.write(f'{generation_folder}/gen_{n}.wav', s, sr)
