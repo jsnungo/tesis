@@ -4,12 +4,9 @@ from functools import partial
 
 os.chdir('../classificador')
 
-import models
-from datasets.speech_commands_dataset import *
-from transforms import transforms_wav as twav
-from transforms import transforms_stft as tstft
-from mixup import *
-from torchvision.transforms import *
+from model_utils import (LoadAudio, FixAudioLength, 
+                         ToMelSpectrogram, ToTensor, SpeechCommandsDataset)
+from torchvision.transforms import Compose
 import torch.nn.functional as F
 from torch.utils.data import DataLoader
 from torch.autograd import Variable
@@ -29,11 +26,11 @@ def get_intermediate_output(model, layer_name, input_tensor):
 def get_embedding(model, dataset_dir, class_c, barch_processing=1, sample_size=np.inf):
     n_mels = 32
     feature_transform = Compose([
-        twav.ToMelSpectrogram(n_mels=n_mels), 
-        twav.ToTensor('mel_spectrogram', 'input')])
+        ToMelSpectrogram(n_mels=n_mels), 
+        ToTensor('mel_spectrogram', 'input')])
     transform = Compose([
-        twav.LoadAudio(), 
-        twav.FixAudioLength(), 
+        LoadAudio(), 
+        FixAudioLength(), 
         feature_transform])
 
     test_dataset = SpeechCommandsDataset(dataset_dir, transform, silence_percentage=0, class_c=class_c)

@@ -30,7 +30,7 @@ with open(args.config, 'r') as f:
     config = json.load(f)
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-generation_folder = f'{args.folder_generated_data}/generated/{model_name}'
+generation_folder = f'{args.folder_generated_data}/generated/{model_name}/BOAFAB'
 
 if os.path.exists(generation_folder):
     shutil.rmtree(generation_folder)
