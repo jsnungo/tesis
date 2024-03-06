@@ -15,9 +15,8 @@ class OutGenAI(object):
         
     def __call__(self, data):
         audio = data['samples']
-        x = np.clip(audio, -1, 1)
         if self.scale:
-            x = (audio + 1) / 2
+            x = np.clip(audio, -1, 1)
         x = np.expand_dims(x, axis=0)
         data['samples'] = x
 
@@ -34,9 +33,9 @@ def get_data_composing(model: str, config: dict):
     ]
 
     if model == 'VAE':
-        base.append(OutGenAI(True))
-    if model == 'DIFFUSION':
         base.append(OutGenAI(False))
+    if model == 'DIFFUSION':
+        base.append(OutGenAI(True))
 
 
     compose_pp = Compose(base)
