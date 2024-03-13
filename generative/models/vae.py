@@ -45,7 +45,7 @@ class VAE(nn.Module):
         h3 = F.relu(self.fc3(z))
         for linear_layer in self.fc3_n:
             h3 = F.relu(linear_layer(h3))
-        return torch.sigmoid(self.fc4(h3))  # Sigmoid for image pixel values
+        return self.fc4(h3)  # Sigmoid for image pixel values
 
     def forward(self, x):
         mu, logvar = self.encode(x)
