@@ -75,6 +75,10 @@ for epoch in range(args.max_epochs):
 
     if args.lr_scheduler == 'plateau':
         lr_scheduler.step(metrics=loss_train)
+    
+    if epoch % 10 == 0 and epoch > 0:
+      torch.save(model, f'{epoch}_{model_name}_model.pth')
 
 torch.save(model, f'{model_name}_model.pth')
+
 print('Model was save')

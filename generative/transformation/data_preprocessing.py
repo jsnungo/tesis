@@ -33,7 +33,7 @@ def get_data_composing(model: str, config: dict):
     ]
 
     if model == 'VAE':
-        base.append(OutGenAI(False))
+        base.append(OutGenAI(True))
     if model == 'DIFFUSION':
         base.append(OutGenAI(True))
 
