@@ -23,13 +23,12 @@ class OutGenAI(object):
         return data
 
 def get_data_composing(model: str, config: dict):
-
     sr = config['audio_config']['sample_rate']
     base = [
-    LoadAudio(sample_rate=sr),
-    # ChangeAmplitude(), 
-    # ChangeSpeedAndPitchAudio(), 
-    # FixAudioLength()
+        LoadAudio(sample_rate=sr),
+        # ChangeAmplitude(), 
+        # ChangeSpeedAndPitchAudio(), 
+        FixAudioLength()
     ]
 
     if model == 'VAE':

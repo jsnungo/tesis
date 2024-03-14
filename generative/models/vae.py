@@ -31,7 +31,7 @@ class VAE(nn.Module):
         self.fc4 = nn.Linear(decode_dims[-1], in_out_dim)  # Hidden to output (reconstruction)
 
     def encode(self, x):
-        h1 = F.relu(self.fc1(x))
+        h1 = F.relu(self.fc1(x)) 
         for linear_layer in self.fc2_n:
             h1 = F.relu(linear_layer(h1))
         return self.fc21(h1), self.fc22(h1)

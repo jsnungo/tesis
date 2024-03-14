@@ -4,7 +4,7 @@ import os
 
 class GenerativeAIDataset(Dataset):
 
-    def __init__(self, folder, transform=None, class_c=None) -> None:
+    def __init__(self, folder, transform=None, class_c=None, expand_data=1) -> None:
         all_classes = [
             d for d in os.listdir(folder)\
                 if os.path.isdir(os.path.join(folder, d)) and not d.startswith('_')]
@@ -21,12 +21,14 @@ class GenerativeAIDataset(Dataset):
 
         self.data = data
         self.transform = transform
+        self.expand_data = expand_data
 
     def __len__(self):
-        return len(self.data)
+        return len(self.data) * self.expand_data
 
     def __getitem__(self, index):
-        path = self.data[index]
+        real_index = index % len(self.data)
+        path = self.data[real_index]
         data = {'path': path}
 
         if self.transform is not None:
