@@ -7,6 +7,7 @@ import numpy as np
 import librosa
 
 from torch.utils.data import Dataset
+import pandas as pd
 
 __all__ = ['SpeechCommandsDataset', 'BackgroundNoiseDataset' ]
 
@@ -19,8 +20,9 @@ class SpeechCommandsDataset(Dataset):
     See for more information: https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
     """
 
-    def __init__(self, folder, transform=None, silence_percentage=0.1, class_c=None):
-        all_classes = [d for d in os.listdir(folder) if os.path.isdir(os.path.join(folder, d)) and not d.startswith('_')]
+    def __init__(self, df_data_path, transform=None, silence_percentage=0.1, class_c=None):
+        df = pd.read_csv(df_data_path)
+        all_classes = df['class'].unique()
         #for c in classes[2:]:
         #    assert c in all_classes
 
@@ -32,14 +34,11 @@ class SpeechCommandsDataset(Dataset):
 
         data = []
         for c in all_classes:
-            d = os.path.join(folder, c)
+            temp_df = df.loc[df['class'] == c]
             target = class_to_idx[c]
-            if class_c is not None and c != class_c:
-                continue
-            for f in os.listdir(d):
-                path = os.path.join(d, f)
-                if not 'desktop.ini' in f:
-                    data.append((path, target))
+            for f in temp_df['file']:
+                path = f'../data/{f}'
+                data.append((path, target))
 
         # add silence
         # target = class_to_idx['silence']
