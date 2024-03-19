@@ -2,3 +2,5 @@ __pycache__
 *.pth
 *.csv
 *.ini
+data/
+data/train_gen/BOAFAB/
