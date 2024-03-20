@@ -25,8 +25,8 @@ from transforms import transforms_stft as tstft
 from mixup import *
 
 parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-parser.add_argument("--train-dataset", type=str, default='../data/train', help='path of train dataset')
-parser.add_argument("--valid-dataset", type=str, default='../data/val', help='path of validation dataset')
+parser.add_argument("--train-dataset", type=str, default='../data/classifier/train.csv', help='path of train dataset')
+parser.add_argument("--valid-dataset", type=str, default='../data/classifier/val.csv', help='path of validation dataset')
 parser.add_argument("--background-noise", type=str, default='datasets/_background_noise_', help='path of background noise')
 parser.add_argument("--comment", type=str, default='', help='comment in tensorboard title')
 parser.add_argument("--batch-size", type=int, default=128, help='batch size')

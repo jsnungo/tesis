@@ -73,11 +73,14 @@ class ChangeSpeedAndPitchAudio(object):
         if not should_apply_transform():
             return data
 
-        samples = data['samples']
-        sample_rate = data['sample_rate']
-        scale = random.uniform(-self.max_scale, self.max_scale)
-        speed_fac = 1.0  / (1 + scale)
-        data['samples'] = np.interp(np.arange(0, len(samples), speed_fac), np.arange(0,len(samples)), samples).astype(np.float32)
+        try:
+            samples = data['samples']
+            sample_rate = data['sample_rate']
+            scale = random.uniform(-self.max_scale, self.max_scale)
+            speed_fac = 1.0  / (1 + scale)
+            data['samples'] = np.interp(np.arange(0, len(samples), speed_fac), np.arange(0,len(samples)), samples).astype(np.float32)
+        except:
+            breakpoint()
         return data
 
 class StretchAudio(object):
