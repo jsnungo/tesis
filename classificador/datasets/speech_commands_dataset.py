@@ -22,7 +22,7 @@ class SpeechCommandsDataset(Dataset):
 
     def __init__(self, df_data_path, transform=None, silence_percentage=0.1, class_c=None):
         df = pd.read_csv(df_data_path)
-        all_classes = df['class'].unique()
+        all_classes = np.flip(np.sort(df['class'].unique()))
         #for c in classes[2:]:
         #    assert c in all_classes
 

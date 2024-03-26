@@ -18,12 +18,12 @@ from tqdm import tqdm
 
 def get_intermediate_output(model, layer_name, input_tensor):
   output = input_tensor  
-  for name, module in model._modules.items():
+  for name, module in list(model._modules.items())[0][1]._modules.items():
       output = module(output)
       if name == layer_name:
           return output
 
-def get_embedding(model, dataset_dir, class_c, barch_processing=1, sample_size=np.inf):
+def get_embedding(model, dataset_dir, class_c, batch_processing=1, sample_size=np.inf):
     n_mels = 32
     feature_transform = Compose([
         ToMelSpectrogram(n_mels=n_mels), 
@@ -34,13 +34,16 @@ def get_embedding(model, dataset_dir, class_c, barch_processing=1, sample_size=n
         feature_transform])
 
     test_dataset = SpeechCommandsDataset(dataset_dir, transform, silence_percentage=0, class_c=class_c)
-    test_dataloader = DataLoader(test_dataset, batch_size=barch_processing)
+    test_dataloader = DataLoader(test_dataset, batch_size=batch_processing)
 
     partial_function = partial(get_intermediate_output, model, 'stage_3')
 
     pbar = tqdm(test_dataloader, unit="audios", unit_scale=test_dataloader.batch_size)
     matrix = None
+
+    paths = []
     for batch in pbar:
+        paths += batch['path']
         inputs = batch['input']
         inputs = torch.unsqueeze(inputs, 1)
 
@@ -48,7 +51,7 @@ def get_embedding(model, dataset_dir, class_c, barch_processing=1, sample_size=n
             inputs = Variable(inputs)
             emb = partial_function(inputs)
             x = F.avg_pool2d(emb, 8, 1)
-            x = x.view(-1, model.stages[3]).numpy()
+            x = x.view(-1, model.module.stages[3]).numpy()
 
             if matrix is None:
                 matrix = x
@@ -57,7 +60,7 @@ def get_embedding(model, dataset_dir, class_c, barch_processing=1, sample_size=n
         if matrix.shape[0] >= sample_size:
             break
 
-    return matrix
+    return matrix, paths
 
 
 def calculate_fid(real_sample, generated_sample):

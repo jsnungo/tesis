@@ -4,3 +4,4 @@ __pycache__
 *.ini
 data/
 data/train_gen/BOAFAB/
+data/generated/

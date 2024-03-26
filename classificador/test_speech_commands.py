@@ -21,7 +21,7 @@ from datasets import *
 from transforms import *
 
 parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-parser.add_argument("--dataset-dir", type=str, default='datasets/speech_commands/test', help='path of test dataset')
+parser.add_argument("--dataset-dir", type=str, default='../data/classifier/test.csv', help='path of test dataset')
 parser.add_argument("--batch-size", type=int, default=128, help='batch size')
 parser.add_argument("--dataload-workers-nums", type=int, default=3, help='number of workers for dataloader')
 parser.add_argument("--input", choices=['mel32'], default='mel32', help='input of NN')
@@ -30,15 +30,15 @@ parser.add_argument('--generate-kaggle-submission', action='store_true', help='g
 parser.add_argument("--kaggle-dataset-dir", type=str, default='datasets/speech_commands/kaggle', help='path of kaggle test dataset')
 parser.add_argument('--output', type=str, default='', help='save output to file for the kaggle competition, if empty the model name will be used')
 #parser.add_argument('--prob-output', type=str, help='save probabilities to file', default='probabilities.json')
-parser.add_argument("model", help='a pretrained neural network model')
+# parser.add_argument("--model", help='a pretrained neural network model')
 args = parser.parse_args()
 
 dataset_dir = args.dataset_dir
 if args.generate_kaggle_submission:
     dataset_dir = args.kaggle_dataset_dir
-
+device = "cuda" if torch.cuda.is_available() else "cpu"
 print("loading model...")
-model = torch.load(args.model)
+model = torch.load('./1710899036807-resnext29_8_64_sgd_plateau_bs96_lr1.0e-02_wd1.0e-02-best-acc.pth', map_location=device)
 model.float()
 
 use_gpu = torch.cuda.is_available()
@@ -54,8 +54,8 @@ if args.input == 'mel40':
 feature_transform = Compose([ToMelSpectrogram(n_mels=n_mels), ToTensor('mel_spectrogram', 'input')])
 transform = Compose([LoadAudio(), FixAudioLength(), feature_transform])
 test_dataset = SpeechCommandsDataset(dataset_dir, transform, silence_percentage=0)
-test_dataloader = DataLoader(test_dataset, batch_size=args.batch_size, sampler=None,
-                            pin_memory=use_gpu, num_workers=args.dataload_workers_nums)
+test_dataloader = DataLoader(test_dataset, batch_size=args.batch_size, sampler=None)
+                            # pin_memory=use_gpu, num_workers=args.dataload_workers_nums)
 
 criterion = torch.nn.CrossEntropyLoss()
 
@@ -112,7 +112,7 @@ def test():
         pred = outputs.data.max(1, keepdim=True)[1]
         correct += pred.eq(targets.data.view_as(pred)).sum()
         total += targets.size(0)
-        confusion_matrix.add(pred, targets.data)
+        # confusion_matrix.add(pred, targets.data)
 
         filenames = batch['path']
         for j in range(len(pred)):
@@ -123,8 +123,8 @@ def test():
     accuracy = correct/total
     #epoch_loss = running_loss / it
     print("accuracy: %f%%" % (100*accuracy))
-    print("confusion matrix:")
-    print(confusion_matrix.value())
+    # print("confusion matrix:")
+    # print(confusion_matrix.value())
 
     return probabilities, predictions
 

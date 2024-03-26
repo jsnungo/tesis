@@ -105,7 +105,7 @@ criterion = torch.nn.CrossEntropyLoss()
 if args.optim == 'sgd':
     optimizer = torch.optim.SGD(model.parameters(), lr=args.learning_rate, momentum=0.9, weight_decay=args.weight_decay)
 else:
-    optimizer = torch.optim.Adam(model.parameters(), lr=args.learning_rate, weight_decay=args.weight_decay)
+    optimizer = torch.optim.Adam(model.parameters(), lr=args.learning_rate)
 
 start_timestamp = int(time.time()*1000)
 start_epoch = 0
