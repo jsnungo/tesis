@@ -1,6 +1,6 @@
 import torch
 
-def calc_diffusion_hyperparams(T, beta_0, beta_T):
+def calc_diffusion_hyperparams(T, beta_0, beta_T, pot=1, scale=False):
     """
     Compute diffusion process hyperparameters
 
@@ -15,7 +15,9 @@ def calc_diffusion_hyperparams(T, beta_0, beta_T):
         These cpu tensors are changed to cuda tensors on each individual gpu
     """
 
-    Beta = torch.linspace(beta_0, beta_T, T)
+    Beta = torch.linspace(beta_0, beta_T, T) ** (pot)
+    if scale:
+        Beta = 0.02 * Beta + 0.0001
     Alpha = 1 - Beta
     Alpha_bar = Alpha + 0
     Beta_tilde = Beta + 0

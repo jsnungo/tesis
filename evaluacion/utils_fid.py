@@ -63,7 +63,7 @@ def get_embedding(model, dataset_dir, class_c, batch_processing=1, sample_size=n
     return matrix, paths
 
 
-def calculate_fid(real_sample, generated_sample):
+def calculate_fid(real_sample, generated_sample, verbose=False):
     """Calculates the Fréchet Inception Distance (FID)"""
     mu1, sigma1 = real_sample.mean(axis=0), np.cov(real_sample, rowvar=False)
     mu2, sigma2 = generated_sample.mean(axis=0), np.cov(generated_sample, rowvar=False)
@@ -71,6 +71,12 @@ def calculate_fid(real_sample, generated_sample):
     covmean = linalg.sqrtm(sigma1.dot(sigma2))
     if np.iscomplexobj(covmean):
         covmean = covmean.real
-    fid = ssdiff + np.trace(sigma1 + sigma2 - 2.0 * covmean)
+
+    term_1 = ssdiff
+    term_2 = np.trace(sigma1 + sigma2 - 2.0 * covmean)
+    if verbose:
+        print("FID (termino 1): ", term_1)
+        print("FID (termino 2): ", term_2)
+    fid = term_1 + term_2
     return fid
 

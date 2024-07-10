@@ -11,7 +11,7 @@ from torch.utils.data import Dataset
 
 def should_apply_transform(prob=0.5):
     """Transforms are only randomly applied with the given probability."""
-    return random.random() < prob
+    return True
 
 class LoadAudio(object):
     """Loads an audio into a numpy array."""
