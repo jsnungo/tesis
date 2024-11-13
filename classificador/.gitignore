@@ -1,6 +1,0 @@
-__pycache__
-*.pth
-*.csv
-pretrained/
-runs/
-*.ini
