@@ -2,7 +2,7 @@ import torch
 import os
 from functools import partial
 
-os.chdir('../classificador')
+os.chdir('../3_classifier')
 
 from model_utils import (LoadAudio, FixAudioLength, 
                          ToMelSpectrogram, ToTensor, SpeechCommandsDataset)

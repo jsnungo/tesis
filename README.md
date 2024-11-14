@@ -1,65 +1,31 @@
-# Tesis
+# README
 
-Welcome to the Tesis project repository. This README provides an overview of the project structure and instructions for setting up and running the project.
+## Repository Workflow
 
-## Table of Contents
+This repository contains code organized in a series of numbered folders. Follow the steps below to run the workflow in numerical order in the Directory code:
+1. **Folder 1: Data Preprocessing**
+    - Unzip the data using `code/1_preprocessing/0_unzip.py`.
+    - To understand the raw data, use the Jupyter notebook `code/1_preprocessing/1_humboldt_data_understanding.ipynb`.
+    - To build the training data for each class (BOAFAB and other frog calls), use the following Jupyter notebooks:
+        - BOAFAB: `code/1_preprocessing/2_data_selection_final_to_train_BOAFAB.ipynb`
+        - OTHER: `code/1_preprocessing/2_data_selection_final_to_train_OTHER.ipynb`
+    - To split the training data into training, test, and validation sets, use the Jupyter notebook `code/1_preprocessing/4_data_split_to_CLASSIFIER.ipynb`
 
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+2. **Folder 2: Train Generative Model**
+    - To train the Diffusion Model, run the Jupyter notebook `code/2_generative/TRAIN_A_DIFF_BOAFAB.ipynb`
 
-## Introduction
+3. **Folder 3: Train Classification Model (for evaluation)**
+    - To train the classification model, run the Jupyter notebook `code/3_classifier/1_run_model_no_data_aug.ipynb`.
+    - To evaluate the classification model, run the Jupyter notebook `code/3_classifier/2_eval_model.ipynb`.
 
-This project is part of a thesis work focused on [brief description of the thesis topic]. The goal of this project is to [brief description of the project's goals].
+4. **Folder 4: Systematic Selection**
+    - To generate a sample of generated audios and take a sample of real audios, run the Jupyter notebook `code/4_systematic_selection/1_generate_samples.ipynb`.
+    - To run the systematic selection algorithm, run the Jupyter notebook `code/4_systematic_selection/2_final_figures_embedding_classifier_nodataaug.ipynb`
 
-## Project Structure
+5. **Folder 5: Figures**
+    - To create paper figures, run the notebook `code/figures/figures.ipynb`.
 
-```
-/tesis
-├── data/               # Data files used in the project
-├── docs/               # Documentation files
-├── src/                # Source code
-├── tests/              # Test files
-└── README.md           # This README file
-```
+## Additional Information
 
-## Installation
-
-To set up the project, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/tesis.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd tesis
-    ```
-3. Install the required dependencies:
-    ```sh
-    [insert installation commands here]
-    ```
-
-## Usage
-
-To run the project, use the following command:
-```sh
-[insert usage commands here]
-```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [insert license name] License - see the [LICENSE](LICENSE) file for details.
+- Ensure all dependencies are installed before running the scripts.
+- Refer to the individual folder's README files for more detailed instructions.
