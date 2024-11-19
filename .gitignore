@@ -3,5 +3,3 @@ __pycache__
 *.csv
 *.ini
 data/
-data/train_gen/BOAFAB/
-data/generated/
